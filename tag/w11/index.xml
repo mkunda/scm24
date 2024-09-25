@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w11 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w11/</link>
+      <atom:link href="http://example.org/tag/w11/index.xml" rel="self" type="application/rss+xml" />
+    <description>w11</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w11</title>
+      <link>http://example.org/tag/w11/</link>
+    </image>
+    
+    <item>
+      <title>Ecology</title>
+      <link>http://example.org/projects/ecology/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/ecology/</guid>
+      <description>&lt;p&gt;Agents operate in an environment but most experiments construct sterile, artificial environments to exert epistemic control. So is looking at the environment worthwhile or can we understand cognition by looking at agents in fixed environments?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Anderson, J. R., &amp;amp; Schooler, L. J. (1991)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reflections of the environment in memory. &lt;em&gt;Psychological Science&lt;/em&gt;, 2(6), 396-408.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shepard, R. N. (1987)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Toward a universal law of generalization for psychological science. &lt;em&gt;Science&lt;/em&gt;, 237(4820), 1317-1323.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--&lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this article, the author proposes the concept of a universal law of generalization for psychological science. They argue that a psychological space can be established for any set of stimuli by determining metric distances between them. The probability of a response learned to one stimulus can then generalize to any other stimulus in an invariant and monotonic function of the distance between them.\n\nThe author highlights the importance of generalization in psychological science and discusses the challenges in quantifying and understanding it. They propose a novel approach to studying generalization by utilizing nonmetric multidimensional scaling to determine an invariant monotonic function that transforms generalization measures into interpretable numbers as distances in a psychological space.\n\nThe article also discusses the exponential decay nature of generalization probabilities and the empirical regularities observed in different experiments. The author suggests that these regularities can be explained by universal principles and evolutionary internalization that govern the behavior of all sentient organisms.\n\nIn conclusion, the author argues that a universal law of generalization in psychology is not only feasible but also essential. They provide empirical evidence, theoretical rationale, and the potential of nonmetric multidimensional scaling as a means to achieve this goal.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This paper often appears on lists of the N most important papers in cognitive science. It sits at the heart of core topics including categorization, concepts, development, induction and ecology.&lt;/p&gt;
+
+&lt;/details&gt;  --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Griffiths, T. L., &amp;amp; Tenenbaum, J. B. (2006).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Optimal predictions in everyday cognition. &lt;em&gt;Psychological Science&lt;/em&gt;, 17(9), 767-773.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This research article explores the optimality of human cognition in everyday situations and whether cognitive judgments align with optimal statistical principles. The study investigates various domains, including life spans, movie grosses, poem lengths, baking times, waiting times, and reigns of pharaohs. The results demonstrate that people&amp;rsquo;s predictions in most domains closely match the optimal Bayesian predictions based on empirical prior distributions.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This one could easily be in the Rationality&amp;quot; topic, but I put it here to highlight that effective inductive biases are effective because they reflect actual environmental statistics.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Feldman, J. (2012)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Symbolic representation of probabilistic worlds. &lt;em&gt;Cognition&lt;/em&gt;, 123(1), 61-83.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the use of symbolic representation in cognitive science, specifically in probabilistic worlds. The author introduces the concept of modality and argues that symbolic representation depends on the probabilistic structure of the environment. The paper proposes that modal environments, which consist of mixtures of narrow component distributions, can be represented symbolically with minimal information loss. The author also explores the relationship between discrete symbols and continuous variables, as well as the challenges of working with mixtures. The article discusses the implications of modality in the environment and how it affects an observer&amp;rsquo;s ability to represent and comprehend it. It concludes that environments with multiple modes or peaks can be effectively represented by symbols, while arbitrary environments cannot. The paper also examines the reduction of dimensions and how modal environments can be approximated by symbolic variables. Overall, the paper aims to show that symbolic representations in cognitive science are effective in capturing the probabilistic structure of modal worlds.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Harnad, S. (1990)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The symbol grounding problem. &lt;em&gt;Physica D: Nonlinear Phenomena&lt;/em&gt;, 42(1-3), 335-346.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This paper by Stevan Harnad, published in 1990, explores the symbol grounding problem and the role of connectionism in cognitive modeling. It suggests that symbols can be grounded in nonsymbolic representations, such as iconic and categorical representations, in order to give them meaning. The paper discusses the strengths and weaknesses of both connectionism and symbolism, and proposes a hybrid model that combines these approaches to address the limitations of each. It also discusses the transition from behaviorism to cognitivism in the modeling of the mind, and explores the defining characteristics of a symbol system. The paper concludes that addressing the symbol grounding problem is crucial for understanding complex cognitive capacities, and that a cooperative approach between connectionism and symbolism is necessary for a comprehensive cognitive model. Overall, the paper highlights the challenges and potential solutions in giving meaning to symbols within a formal symbol system, and discusses the importance of grounding symbols in nonsymbolic representations.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Barsalou, L. W. (1999) | &lt;details&gt;
+  &lt;summary&gt;Perceptual symbol systems. &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 22(4), 577-660.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the environment worth studying?&lt;/li&gt;
+&lt;li&gt;What is the target for the grounding problem?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expertise</title>
+      <link>http://example.org/projects/expertise/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/expertise/</guid>
+      <description>&lt;p&gt;Most of us specialize in something in our lives, perhaps even achieving expert status. Gladwell once claimed that 10,000 hours of practice in anything is enough to make anyone an expert. While this has been roundly &lt;a href=&#34;https://www.6seconds.org/2022/06/20/10000-hour-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debunked&lt;/a&gt;, large neural network models are now able to achieve expert or superhuman ability when given enough millions of training episodes for a single task.&lt;/p&gt;
+&lt;p&gt;On the other hand, these models struggle far more than people to &lt;em&gt;generalize&lt;/em&gt; this expertis to even slightly different tasks, or indeed to master more than one thing at all. What is expertise in cognition? This session will explore how we can model expertise, how expertise changes our how a cognizer approaches a task, and what trade-offs this can come with.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Chi, M. T. H., Feltovich, P., &amp;amp; Glaser, R. (1981).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Categorization and representation of physics problems by experts and novices. &lt;em&gt;Cognitive Science&lt;/em&gt;, 5, 121-152.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., &amp;amp; Pine, J. M. (2001).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chunking mechanisms in human learning. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(6), 236-243.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article explores the concept of &amp;ldquo;chunking,&amp;rdquo; which is the process of organizing information into meaningful units. It discusses how chunking is a crucial mechanism in human perception, learning, and cognition. The article distinguishes between goal-oriented chunking, which is deliberate and strategic, and perceptual chunking, which is automatic and continuous.&lt;/p&gt;
+&lt;p&gt;The article highlights the importance of computational models, specifically the EPAM/CHREST models, in understanding chunking mechanisms. These models provide a theoretical framework for studying chunking in various domains and allow for the prediction of chunks. The article provides examples of studies that demonstrate perceptual chunking in different contexts, such as grouping primitive stimuli and constructing perceptual chunks in memory. The article further discusses the applications of CHREST in various cognitive domains, including chess expertise and language acquisition. It emphasizes the potential of CHREST in addressing the limitations of early versions of EPAM.&lt;/p&gt;
+
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ericsson, K. A., Krampe, R. T., &amp;amp; Tesch-Römer, C. (1993).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The role of deliberate practice in the acquisition of expert performance. &lt;em&gt;Psychological Review&lt;/em&gt;, 100(3), 363.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article from 1993 discusses the role of deliberate practice in achieving expert performance in various domains. It challenges the notion of innate talent and emphasizes the importance of intense practice for at least 10 years. The article provides evidence on the potential and limits of environmental adaptation and learning.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the origin of the the idea popularised by Malcolm Gladwell that 10,000 hours in anything will make you an expert. Is this really exactly what Erisson et al found?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., &amp;hellip; &amp;amp; Hassabis, D. (2016).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Mastering the game of Go with deep neural networks and tree search. &lt;em&gt;Nature&lt;/em&gt;, 529(7587), 484-489.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the use of deep neural networks and tree search in the development of the computer program AlphaGo, which plays the game of Go. The researchers trained policy and value networks using 30 million positions from the KGS Go server, achieving high accuracy in evaluating board positions and selecting moves. AlphaGo was able to defeat other Go programs and even a human professional player. The article also discusses the techniques and methods used in AlphaGo, including rollout policy, exploiting symmetries, and reinforcement learning.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What differences do we see in how experts and novices approach a problem?&lt;/li&gt;
+&lt;li&gt;What are some features of domain expertise?&lt;/li&gt;
+&lt;li&gt;In what ways might expertise trade off with flexibility?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

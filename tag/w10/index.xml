@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w10 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w10/</link>
+      <atom:link href="http://example.org/tag/w10/index.xml" rel="self" type="application/rss+xml" />
+    <description>w10</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w10</title>
+      <link>http://example.org/tag/w10/</link>
+    </image>
+    
+    <item>
+      <title>Theory of Mind</title>
+      <link>http://example.org/projects/tom/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/tom/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Here is how it works: first you decide to treat the object whose behavior is to be predicted as a rational agent; then you figure out what beliefs that agent ought to have, given its place in the world and its purpose. Then you figure out what desires it ought to have, on the same considerations, and finally you predict that this rational agent will act to further its goals in the light of its beliefs.”&lt;/em&gt; (Dennett, The Intentional Stance, 1996, p. 17).&lt;/p&gt;
+&lt;p&gt;This session will think about how people reason about others and how we might make machines that can do the same.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Dennett, D. C. (1981).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 3: True believers: The intentional strategy and why it works. In &lt;em&gt;Mind Design II&lt;/em&gt;&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This excerpt from &#34;Mind Design II&#34; explores belief attribution. The passage presents two opposing views on belief attribution: realism and interpretationism. The author argues that belief is an objective phenomenon that can be discerned through the intentional strategy, which treats the object of study as a rational agent with beliefs and desires. The passage emphasizes the effectiveness of the intentional strategy in predicting human behavior and addresses objections raised against it. It also discusses the relationship between an organization and its environment, the role of internal representations, and the reasons why the intentional strategy works. The author explores the belief that most beliefs must be true, the distinction between belief and opinion, and the challenges with language-of-thought models. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Some philosophy for a change. If you&amp;rsquo;ve not heard of Dennett, he is one of the most influential philosophers of cognitive science and has some interesting views on consciousness, free will and many other things (evolution, religion). He is also known for this &amp;lsquo;intentional stance&amp;rsquo; idea which helps clarify what it means to think about the private mental states of others.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jara-Ettinger, J., Gweon, H., Schulz, L. E., &amp;amp; Tenenbaum, J. B. (2016).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The naïve utility calculus: Computational principles underlying commonsense psychology. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 20(8), 589-604.&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article proposes human social cognition is structured around a basic understanding of ourselves and others as intuitive utility maximizers: From a young age, humans implicitly assume that agents choose goals and actions to maximize the rewards they expect to obtain relative to the costs they expect to incur. It argues this ‘naïve utility calculus’ allows both children and adults observe the behavior of others and infer their beliefs and desires, their longer-term knowledge and preferences, and even their character: who is knowledgeable or competent, who is praiseworthy or blameworthy, who is friendly, indifferent, or an enemy. The article reviews studies providing support for the naïve utility calculus, and shows how it captures the rich social reasoning humans engage in from infancy. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fast forward 30 years from Mind Design, and we see the intentional stance ideas startign to be formalized in computational Bayesian framework, capturing how one can &lt;em&gt;invert&lt;/em&gt; behaviours to identify someone&amp;rsquo;s likely beliefs, values etc. Note also the connections with Development and Rationality topics.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Baker, C. L., Saxe, R., &amp;amp; Tenenbaum, J. B. (2009).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Action understanding as inverse planning. &lt;em&gt;Cognition&lt;/em&gt;, 113(3), 329-349.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a computational framework for modeling human action understanding using Bayesian inverse planning. The authors conducted psychophysical experiments to assess the accuracy of different inverse planning models in predicting human goal inferences. The results show evidence for a rational inference mechanism in human goal inference. The framework provides a formal approach to understanding rational action and goal inference in humans.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;s a more detailed example of this project modelling theory of mind style inferences as rational inverse planning. The food truck scenarios are proven popular and sprouted &amp;lsquo;spinoff&amp;rsquo; projects in the decade since this paper.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Heider, F., &amp;amp; Simmel, M. (1944).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;An experimental study of apparent behavior. &lt;em&gt;The American Journal of Psychology&lt;/em&gt;, 57(2), 243-259.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study aimed to understand how individuals perceive and interpret the behavior of others based on visual stimuli. The authors highlight the lack of experimental investigations in this area and emphasize the importance of studying the psychology of perception in relation to apparent behavior. The study involved showing participants a moving picture-film featuring geometric shapes moving in various directions and speeds. Participants were asked to describe the pictures and answer questions about them. The findings revealed that participants tended to interpret the movements as actions of animate beings, attributing personalities and motives to the shapes. The study demonstrates that humans have a tendency to perceive and attribute behavior to abstract shapes, suggesting a fundamental psychological process involved in perceiving others&amp;rsquo; behavior.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This very old article is really most famous for its stimuli (&lt;a href=&#34;https://www.youtube.com/watch?v=VTNmLt7QX8E%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=VTNmLt7QX8E)&lt;/a&gt;. One still tends to see this clip in the introduction to talks about social cognition (its not a bad idea to include it in your own presentation!). It is striking how irresistible it is to take ``the intentional stance&amp;rsquo;&amp;rsquo; a la Dennett, and assign motivations and personality traits to these simple geometric shapes being moved around on an overhead projector.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Baron-Cohen, S., Leslie, A. M., &amp;amp; Frith, U. (1985).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Does the autistic child have a “theory of mind”? &lt;em&gt;Cognition&lt;/em&gt;, 21(1), 37-46.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores whether autistic children lack a &amp;ldquo;theory of mind,&amp;rdquo; which refers to the ability to understand and predict the beliefs and behaviors of others. The study compares the performance of autistic children to that of normal children and children with Down&amp;rsquo;s syndrome using a puppet play paradigm. The research suggests that despite having a higher mental age than the comparison groups, autistic children fail to impute beliefs to others, indicating a deficit in meta-representational development specific to autism. This deficit contributes to the social impairment experienced by autistic children. The authors propose a new model of meta-representational development that suggests the capacity to form &amp;ldquo;second-order representations&amp;rdquo; is necessary for a theory of mind. Autistic children not only struggle with social ineptness but also exhibit a lack of pretend play.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Again this paper is most famous for its stimuli, the &amp;lsquo;Sally-Ann False Belief Task&amp;rsquo; which probes whether someone is capable of Theory of Mind reasoning. Who is Simon Baron-Cohen&amp;rsquo;s famous cousin?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., &amp; Saxe, R. (2018). | &lt;details&gt;
+  &lt;summary&gt;Development of the social brain from age three to twelve years. &lt;em&gt;Nature Communications&lt;/em&gt;, 9(1), 1-12.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This study examines the development of the &amp;ldquo;social brain&amp;rdquo; in children aged three to twelve. The researchers investigate how the neural networks involved in thinking about others&amp;rsquo; bodies and minds change as children develop. They found that these networks become increasingly distinct throughout childhood, and their functional maturity is related to the correlation between them. The milestone of passing false-belief tasks, often used to measure theory of mind development, does not align with the development of the social brain.&lt;/p&gt;
+&lt;p&gt;The study used fMRI to identify divisions of labor within the adult social brain and aimed to understand the neural changes that support the development of children&amp;rsquo;s understanding of others&amp;rsquo; minds. The results suggest that the regions involved in reasoning about others&amp;rsquo; minds and bodies are functionally distinct by the age of 3 and become increasingly specialized between the ages of 3-12. There was also a distinct neural response to others&amp;rsquo; minds and bodies even before children pass explicit false-belief tasks.&lt;/p&gt;
+&lt;p&gt;The study found that children who passed false-belief tasks and had more distinct responses across brain networks showed more adult-like responses to the movie in each network.&lt;/p&gt;
+
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you think of situations where people make the wrong theory of mind ascriptions (i.e. something with little or no mental life that we we assume does have it, and visa versa)?&lt;/li&gt;
+&lt;li&gt;What are some challenges for developing artificial agents with theory of mind&lt;/li&gt;
+&lt;li&gt;Is the Baron-Cohen view of autism still current?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analogy</title>
+      <link>http://example.org/projects/analogy/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/analogy/</guid>
+      <description>&lt;p&gt;Analogies help highlight similarities between different situations. Sometimes they just help us make pretty prose and literary points; however, they can also help us with problem solving. Is analogical reasoning responsible for creative solutions and &amp;ldquo;aha!&amp;rdquo; moments of insight?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gentner, D. (1983)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Structure-mapping: A theoretical framework for analogy. &lt;em&gt;Cognitive Science&lt;/em&gt;, 7(2), 155-170.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gick, M. L., &amp;amp; Holyoak, K. J. (1980)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Analogical problem solving. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 12(3), 306-355.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gentner, D., &amp;amp; Forbus, K. D. (2011).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Computational models of analogy. &lt;em&gt;Wiley Interdisciplinary Reviews: Cognitive Science&lt;/em&gt;, 2(3), 266-276.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Just a review of the proliferation of models of analogy since the structure mapping engine.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Medin, D. L., Goldstone, R. L., &amp;amp; Gentner, D. (1993)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Respects for similarity. &lt;em&gt;Psychological Review&lt;/em&gt;, 100(2), 254.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the concept of similarity and its importance in various psychological theories. The authors argue against the view that similarity is determined solely by perceptual processes and propose that it is influenced by the comparison process itself. They address criticisms of similarity and suggest that specific similarities between objects, known as &amp;ldquo;respects,&amp;rdquo; are crucial for understanding similarity. The passages also explore different models and measures of similarity, the role of context and experience in similarity judgments, and the influence of comparison processes on similarity assessments. They discuss the importance of alignment in determining similarities and differences between objects and the role of constraints and global constraint satisfaction in similarity judgments. The passages highlight the dynamic and context-dependent nature of similarity and the need for further research in this area.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How is analogical reasoning different from similarity based reasoning?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

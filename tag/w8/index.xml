@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w8 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w8/</link>
+      <atom:link href="http://example.org/tag/w8/index.xml" rel="self" type="application/rss+xml" />
+    <description>w8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w8</title>
+      <link>http://example.org/tag/w8/</link>
+    </image>
+    
+    <item>
+      <title>Decision Making</title>
+      <link>http://example.org/projects/decision/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/decision/</guid>
+      <description>&lt;p&gt;Humans are said to be ‘predictably irrational’, departing from the ways that economists would like to think they will behave. Businesses, policy makers, marketers and consultants and increasingly economists would all like to understand how and why people make the decisions they do. The judgment and decision making topic focuses on these questions and has produced a number influential models capturing how people choose between options, often emphasizing heuristics (or computational shortcuts) we use to make choices with limited time or computational resources and trying to explicate when and why they work.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Todd, P. M., &amp;amp; Gigerenzer, G. (2000).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Précis of simple heuristics that make us smart. &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 23(5), 727-741.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; As well as being a summary of a much longer collected volume, this is a ``target article&amp;rsquo;&amp;rsquo; in &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;. This means a bunch of academics wrote commentaries on it. If you are interested in this topic it is worth having a look at some of these these commentaries, as well as the article to get a sense of a wider set of viewpoints and the relevant debates. E.g. in the early 2000&amp;rsquo;s there was a debate in cognitive science between proponents of probabilistic/Bayesian models of cognition championed by people like Nick Chater and Tom Griffiths, and heuristic models such as promoted by the Gigerenzer group in Berlin grounded in earlier work by Herb Simon, as well as Kahneman and Tversky.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; How can anyone be rational in a world where knowledge is limited, time is pressing, and deep thought is often an unattainable luxury? Traditional models of unbounded rationality and optimization in cognitive science, economics, and animal behavior have tended to view decision-makers as possessing supernatural powers of reason, limitless knowledge, and endless time. But understanding decisions in the real world requires a more psychologically plausible notion of bounded rationality. In Simple heuristics that make us smart (Gigerenzer et al. 1999), we explore fast and frugal heuristics – simple rules in the mind’s adaptive toolbox for making decisions with realistic mental resources. --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tversky, A., &amp;amp; Kahneman, D. (1985)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The framing of decisions and the psychology of choice. In &lt;em&gt;Behavioral Decision Making&lt;/em&gt; (pp. 25-41). Springer, Boston, MA.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce predictable shifts of preference when the same problem is framed in different ways. Reversals of preference are demonstrated in choices regarding monetary outcomes, both hypothetical and real, and in questions pertaining to the loss of human lives. The effects of frames on preferences are compared to the effects of perspectives on perceptual appearance. The dependence of preferences on the formulation of decision problems is a significant concern for the theory of rational choice.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Notworthy that, for this work, Kahneman was the only psychologist to ever win a Nobel Prize (winning in the Economics category in 2002).&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Kahneman, D., &amp;amp; Tversky, A. (1979).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Prospect theory: An analysis of decision under risk. &lt;em&gt;Econometrica&lt;/em&gt;, 47 263-291.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage discusses the concept of prospect theory and its application to decision-making under risk. It highlights the limitations and inconsistencies of expected utility theory and introduces prospect theory as an alternative model. The theory argues that choices involving risky prospects exhibit effects inconsistent with utility theory, such as underweighting probable outcomes and discarding shared components. Prospect theory assigns value to gains and losses rather than final assets, replaces probabilities with decision weights, and explains the tendency to overweight low probabilities. The passage presents various choice problems that violate the axioms of expected utility theory and discusses the observations that led to the development of prospect theory. Overall, the passage emphasizes the departure from rational decision-making and the need for an alternative theory to explain risk preferences in decision-making.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Busemeyer, J. R., Wang, Z., &amp;amp; Townsend, J. T. (2006).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Quantum dynamics of human decision-making. &lt;em&gt;Journal of Mathematical Psychology&lt;/em&gt;, 50(3), 220-241.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a comparison between a quantum dynamic model and a Markov model for decision-making processes. The quantum model describes the evolution of complex valued probability amplitudes over time, while the Markov model describes the evolution of real valued probabilities over time. The quantum model generates interference effects, which are not possible with Markov models. The authors derive choice probabilities and distribution of choice response time for the quantum model and compare them to the Markov model. The article discusses several examples and applications of both models, including signal detection and measuring confidence ratings. The authors also compare the fit of the models to response time distributions and highlight the potential of the quantum model in various fields. The article concludes by emphasizing the need for more empirical evidence to further develop the quantum dynamic model. The appendix provides additional information on linear algebra and the Markov model.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the brain an adaptive toolbox or a flexible generalist?&lt;/li&gt;
+&lt;li&gt;Are heuristic and probablistic frameworks really in tension?&lt;/li&gt;
+&lt;li&gt;What are some key heuristics for decision making?&lt;/li&gt;
+&lt;li&gt;What kind of theory is Prospect theory? Normative, descriptive or prescriptive?&lt;/li&gt;
+&lt;li&gt;Quantum Probability models&amp;hellip; what&amp;rsquo;s going on there?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Number</title>
+      <link>http://example.org/projects/number/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/number/</guid>
+      <description>&lt;p&gt;Of all the terrifying things humans have created, perhaps maths are a fairly tame, although remarkable, invention. While we clearly created maths, did we create numbers?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Feigenson, L., Dehaene, S., &amp;amp; Spelke, E. (2004)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Core systems of number. &lt;em&gt;Trends in cognitive sciences&lt;/em&gt;, 8(7), 307-314.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pica, P., Lemer, C., Izard, V., &amp;amp; Dehaene, S. (2004)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Exact and approximate arithmetic in an Amazonian indigene group. &lt;em&gt;Science&lt;/em&gt;, 306(5695), 499-503.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study investigated numerical cognition in Munduruku speakers, who have a limited lexicon of number words. The Munduruku can compare and add approximate numbers but struggle with exact arithmetic. The study contributes to understanding the relationship between language and arithmetic and the role of language in numerical cognition. It highlights that while the Munduruku lack number words beyond 5, they still possess a nonverbal system for approximate number. This suggests that exact arithmetic may require language for a precise representation and manipulation of numbers. The study also emphasizes the potential impact of language on numerical cognition and how cultural and linguistic factors can influence numeric representation and processes.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Frank, M. C., Everett, D. L., Fedorenko, E., &amp;amp; Gibson, E. (2008)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Number as a cognitive technology: Evidence from Pirahã language and cognition. &lt;em&gt;Cognition&lt;/em&gt;, 108(3), 819-824.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the relationship between language and our understanding of numbers, focusing on the Pirahã tribe&amp;rsquo;s language and numerical abilities. Previous research has shown that the Pirahã language lacks words for exact numbers, but the tribe can perform exact matching tasks with large quantities of objects accurately. This suggests that language for exact numbers is a cultural invention, not a universal linguistic feature. Number words serve as a cognitive technology for representing and keeping track of large sets accurately. The article discusses the role of language in understanding numbers and the theories proposing that language plays a causal role in the acquisition of exact numerical competence. The article provides evidence that language for exact numbers is not a linguistic universal but a cultural invention, with implications for understanding the relationship between language and cognition in numerical competence
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jara‐Ettinger, J., Piantadosi, S., Spelke, E. S., Levy, R., &amp;amp; Gibson, E. (2017)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Mastery of the logic of natural numbers is not the result of mastery of counting: Evidence from late counters. &lt;em&gt;Developmental Science&lt;/em&gt;, 20(6), e12459.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; TODO
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Piantadosi, ST., Tenenbaum, JB and Goodman, ND (2012)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Bootstrapping in a language of thought: A formal model of numerical concept learning. &lt;em&gt;Cognition&lt;/em&gt; 123.2: 199-217.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; TODO
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do we represent numbers?&lt;/li&gt;
+&lt;li&gt;Are numbers universal to animals?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>http://example.org/projects/attention/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/attention/</guid>
+      <description>&lt;p&gt;The world isn&amp;rsquo;t neatly carved into units aligned with our mental representations. Instead it&amp;rsquo;s presumably a &amp;ldquo;blooming, buzzing confusion.&amp;rdquo; Presumably the goal of attention is to filter this confusion such that we can better process signals in the environment.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Posner, M. I., Snyder, R. R. and Davidson, B. J. (1978)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Attention and Detection of Signals. &lt;em&gt;Journal of Experimental Psychology: General&lt;/em&gt;, 109(2), 160.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L. &amp;amp; Polosukhin, I. (2017).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Attention is all you need. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, 30.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Depending on your background, this paper will either be tough to understand or extremely well known to you. It has been cited 86,000 times in the five years since its publication, so worthy of discussion either way. This is what attention now means in machine learning. Interesting to think about how it relates to the psychological notion.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses multiple studies on the relationship between attention and detection of visual signals. The researchers focus on the role of cues, spatial position, and expectancy in improving performance. They also explore the effects of eye movements and stimulus parameters on detection. The studies suggest that attention plays a crucial role in detecting signals and that knowledge of the location of a signal can improve processing efficiency. However, the results also indicate that attention may not improve detection of certain stimulus parameters, such as shape. The researchers discuss the impact of criterion shifts and position uncertainty on reaction times. Overall, the findings contribute to the understanding of the complex relationship between attention and the visual system, providing insights into how attention affects detection.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Treisman, A. and Gelade, G. (1980)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A feature integration theory of attention. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 12(1), 97-136.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article proposes a feature-integration theory of attention, which suggests that attention must be directed sequentially to each stimulus in a display when multiple features are needed to distinguish objects.  The study focuses on exploring the relationship between attention and feature integration in perception. It introduces diagnostic tests for determining the separability of dimensions and conducts experiments to support the theory of feature integration. The study also examines visual search, texture segregation, illusory conjunctions, identity and location perception, and interference from unattended stimuli. The research examines the effects of extended practice on feature unitization and the emergence of unitary detectors.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Henderson, J. M., (2020)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Meaning and attention in scenes. &lt;em&gt;Psychology of Learning and Motivation&lt;/em&gt;, 73, 95-117.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this chapter, the author discusses the role of meaning and attention in scenes. They introduce a new method called meaning maps, which represent the spatial distribution of meaning in scenes and compare it to image salience and attention. The author found that both meaning and salience predict attention, but meaning uniquely accounts for variance in attention. They discuss the implications of these findings and highlight the importance of understanding how the brain solves the computational problems of processing visual scenes.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Paschler, H. (1994)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Dual-task interference in simple tasks: Data and theory. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 116(2), 220.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article explores the concept of dual-task interference in simple tasks. It discusses different theoretical approaches for explaining dual-task interference, including capacity sharing, bottleneck models, and cross-talk models. The article also discusses the implications for higher mental processes and provides an overview of previous research on dual-task performance.&lt;/p&gt;
+&lt;p&gt;The article discusses the psychological refractory period (PRP) effect, which refers to a delay in response time to a second stimulus when presented shortly after the first stimulus. The article explores various explanations for this effect and highlights the need to analyze the time course of mental operations to understand interference mechanisms. The article discusses bottleneck models and how they can be tested using PRP experiments. It outlines principles for determining if there is a bottleneck in a particular stage of a task. The article suggests the existence of a bottleneck in response selection and certain cognitive operations.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is attention a spotlight, object-oriented, or perhaps something more?&lt;/li&gt;
+&lt;li&gt;How is attention allocated?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w3 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w3/</link>
+      <atom:link href="http://example.org/tag/w3/index.xml" rel="self" type="application/rss+xml" />
+    <description>w3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w3</title>
+      <link>http://example.org/tag/w3/</link>
+    </image>
+    
+    <item>
+      <title>Concepts</title>
+      <link>http://example.org/projects/concepts/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/concepts/</guid>
+      <description>&lt;p&gt;“&lt;em&gt;Concepts are the glue that holds our mental world together&lt;/em&gt;” (Murphy, 2002, p1).&lt;/p&gt;
+&lt;p&gt;This session will explore recent attempts to model the structure of human concepts. This will involve engaging with a historical debate and distinction between more &amp;ldquo;statistical&amp;rdquo; and more &amp;ldquo;rule-based&amp;rdquo; models and their implications but also thinking about how our concepts relate to how we categorize things but also how we think and generate new ideas.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Murphy, G. L. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chapter 2, &lt;em&gt;The big book of concepts&lt;/em&gt;. MIT Press (On Learn)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp;amp; Griffiths, T. L. (2008)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A rational analysis of rule‐based concept learning. &lt;em&gt;Cognitive Science&lt;/em&gt;, 32(1), 108-154.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lake, B. M., Salakhutdinov, R., &amp;amp; Tenenbaum, J. B. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Human-level concept learning through probabilistic program induction. &lt;em&gt;Science&lt;/em&gt;, 350(6266), 1332-1338.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;The article highlights two aspects of human conceptual knowledge that have eluded machine systems: the ability to learn new concepts from just one or a few examples, and the ability to learn rich and flexible representations. The authors propose the Bayesian Program Learning (BPL) framework, which can learn a wide range of visual concepts from just a single example and generalize in ways that are similar to human behavior. BPL represents concepts as stochastic programs and utilizes compositionality, causality, and learning to learn as key ideas.&lt;/p&gt;
+&lt;p&gt;The authors present a computational model that captures these human learning abilities specifically for simple visual concepts, using handwritten characters from different alphabets as examples. The model represents concepts as simple programs that best explain observed examples, using a Bayesian criterion. In a one-shot classification task, the model achieves human-level performance and outperforms recent deep learning approaches. The model&amp;rsquo;s creative generalization abilities are tested through several &amp;ldquo;visual Turing tests,&amp;rdquo; which show that in many cases, the model&amp;rsquo;s behavior is indistinguishable from human behavior.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the first really modern modelling paper on the reading list. It showcases the power of hierarchical Bayesian program induction as a theory of conceptual structure. In being based in symbolic rules/programs, it is a successor to Goodman et al (2008), but  the domain is much more naturalistic and the computational cost of fitting this model is far higher. Note also the differences in writing style compared to the classic papers, e.g. compressed, concise, visual, snappy but key details in an appendix.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shepard, R. N., Hovland, C. I. and Jenkins, H. M. (1961)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Learning and Memorization of Classifications. &lt;em&gt;Psychological Monographs: General and Applied&lt;/em&gt;, 75(13), 1.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study includes a series of experiments that investigate the learning and memorization of different types of classifications. The results show that the structure of the classification and the complexity of the rules involved affect the difficulty of the task. Overall, the study provides insights into the factors that determine the difficulty of learning and remembering classifications. It highlights the importance of considering the structure of the classification, the complexity of the rules, and the use of different stimuli in understanding the learning and memorization process.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The experiments in this paper are long and complicated but what makes it famous is the way Shepard visualizes concepts/classification rules of different complexity (i.e. Figures 2 and 3). These visualizations and the logic behind them are widely used in categorization research and teaching today.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do concepts relate to categories?&lt;/li&gt;
+&lt;li&gt;What about to previous topics? e.g. Are concepts representations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Categorization</title>
+      <link>http://example.org/projects/categorization/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/categorization/</guid>
+      <description>&lt;p&gt;Plato famously characterised humans as seeking to ‘carve nature at its joints’ (Phaedrus). The rough idea is that we find ways to classify and group the things in our experience in ways that somehow respect their natural clustering and separation.&lt;/p&gt;
+&lt;p&gt;This topic looks at cognitive models that have tried to capture how and why we partition the world in the ways we do.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Posner and Keele (1968)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;On the genesis of abstract ideas. &lt;em&gt;Journal of Experimental Psychology&lt;/em&gt;, 77 (3).&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This journal article examines the process of abstract idea formation in humans and the role of pattern recognition and variability in learning and transfer tasks. The authors find that individuals can learn to classify distorted patterns even without having seen the prototype, and that the prototype is more easily classified than control patterns within the same category. The study also suggests that higher variability patterns are better transferred and recognized compared to low variability patterns. The researchers also discuss the philosophical notion of abstract representations and their relevance to perception. The study involved multiple experiments and analyses, including measuring distances between patterns, reaction times, and error rates. The results consistently show that schema patterns are better recognized and have lower error rates compared to new distortions. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the original appearance of the now classic &amp;ldquo;prototype theory&amp;rdquo; of categorization.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Love, B. C., Medin, D. L., &amp;amp; Gureckis, T. M. (2004).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;SUSTAIN: a network model of category learning. &lt;em&gt;Psychological Review&lt;/em&gt;, 111(2), 309.&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The document introduces the Sustain model, a network model of category learning that focuses on how humans learn categories from examples. It discusses the model&#39;s ability to adapt and recruit additional clusters when faced with surprising events, as well as its ability to discover category substructure. The document highlights the importance of flexibility and category substructure in category learning models. It provides an overview of the basic components and principles of the Sustain model, including its input representation, parameters, and behavior equations. The document also compares Sustain to other category learning models and discusses its implications and contributions. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;s a much more recent &amp;ldquo;non-parametric&amp;rdquo; statistical category model. Can it resolve some of the shortcomings or tensions between prototype and exemplar models.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Murphy, G. L. (1968) G. L. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 3, &lt;em&gt;The big book of concepts&lt;/em&gt;. MIT Press (On Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This chapter discusses theories of concepts, specifically focusing on the prototype view, exemplar view, and the knowledge approach. The prototype view suggests that categories are represented by a prototype, which is a summary representation of the entire category with certain features being more important. The exemplar view states that categories are represented by individual exemplars that we remember and compare to new items. The knowledge approach argues that concepts are shaped by prior knowledge and understanding. The passage also introduces the Generalized Context Model (GCM), which calculates similarity and categorization decisions based on distances between exemplars. It discusses the use of weighted dimensions and the Luce choice axiom in the GCM. The GCM has received both praise and criticism but has been influential in the field of categorization. Overall, the chapter highlights the complexity of concept representation and the various factors that influence categorization decisions.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Medin, D., &amp;amp; Schaffer, M. (1978).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Context theory of classification. &lt;em&gt;Psychological Review&lt;/em&gt;, 85, 207-238.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the theory of classification learning, specifically the context model, which proposes that judgments are based on stored exemplar information and similarity between stimuli. Four experiments consistently support the context model over other theories. The article also discusses the structure of concepts and the role of exemplars in learning.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the original appearance of the now classic &amp;ldquo;exemplar theory&amp;rdquo; of categorization.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Rosch, E., Mervis, C.B., Gray, W., Johnson, D., &amp;amp; Boyes-Braem, P. (1976)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Basic Objects in Natural Categories. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 8(3), 382-439.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study conducted by Rosch et al. explores the concept of categorization in cognitive psychology, specifically focusing on basic level categories. The researchers argue that categories in the concrete world are not arbitrary, but determined by the correlational structure of perceived objects and the need for cognitive efficiency. They suggest that basic categories are the most inclusive and differentiated, carrying the most information and possessing high category cue validity.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Another classic.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gershman, S. J. (2017)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;On the Blessing of Abstraction. &lt;em&gt;Quarterly Journal of Experimental Psychology&lt;/em&gt; 70 (3).&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The blessing of abstraction refers to the phenomenon that abstract knowledge can sometimes be acquired more quickly than specific knowledge. Gershman tests this hypothesis using hierarchical Bayesian models and an experiment manipulating the dispersion of variables. The experiment involved participants predicting the next button press in sequences of button presses. The size range of the buttons was manipulated to create different levels of dispersion. The results showed that in the low dispersion condition, abstract knowledge was acquired more quickly than specific knowledge. However, in the high dispersion condition, specific knowledge was acquired more quickly. These findings support the idea that the blessing of abstraction depends on the dispersion of specific variables. Gershman suggests that hierarchical Bayesian models provide a framework for understanding how learning occurs at different levels of abstraction simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; A short recent paper that touches on how categories are arranged hierarchically.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is a category? How does it relate to a concept?&lt;/li&gt;
+&lt;li&gt;Why is categorization so central for cognition?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

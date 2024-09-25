@@ -1,0 +1,1086 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Neil Bramley" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content=" " />
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://example.org/projects/causality/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#707070" />
+  
+
+  
+  
+    
+    <script src="http://example.org/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="http://example.org/css/wowchemy.91ab45ceffaadb164bcf5b53d86a4e54.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="http://example.org/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="http://example.org/projects/causality/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Seminar in Cognitive Modelling" />
+  <meta property="og:url" content="http://example.org/projects/causality/" />
+  <meta property="og:title" content="Causality | Seminar in Cognitive Modelling" />
+  <meta property="og:description" content=" " /><meta property="og:image" content="http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-07-01T09:58:49&#43;01:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-07-01T09:58:49&#43;01:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Causality | Seminar in Cognitive Modelling</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4d2ef4deb603d6f96c11053c96218fff" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="http://example.org/js/wowchemy-init.min.c4b90dff1cebe730b9c3b416b2576fc5.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="http://example.org/">Seminar in Cognitive Modelling</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="http://example.org/">Seminar in Cognitive Modelling</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://example.org/#timetable"><span>Schedule</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="http://example.org/#projects"><span>Topics</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Assessment</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="http://example.org/assessment#portfolio"><span>Portfolio</span></a>
+            
+              <a class="dropdown-item" href="http://example.org/assessment#presentation"><span>Presentation</span></a>
+            
+              <a class="dropdown-item" href="http://example.org/assessment#essay"><span>Essay</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.piazza.com/" target="_blank" rel="noopener"><span><i class='ai ai-piazza'></i>iazza</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Causality</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 1, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.</p>
+<p>In this session, we will think about how to model the cognition involved in learning, representing and exploiting a causal model of the world.</p>
+<h2 id="primary-readings">Primary Readings</h2>
+<p>Everyone should read these and be prepared to discuss.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">
+  <i class="fas fa-scroll  pr-1 fa-fw"></i> Coenen, A., Rehder, B., &amp; Gureckis, T. M. (2015).</td>
+<td style="text-align:left">Strategies to intervene on causal systems are adaptively selected. <em>Cognitive Psychology</em>, 79, 102-133.</td>
+</tr>
+<tr>
+<td style="text-align:center">
+  <i class="fas fa-scroll  pr-1 fa-fw"></i> Pearl, J. (2019).</td>
+<td style="text-align:left">The seven tools of causal inference, with reflections on machine learning. <em>Communications of the ACM</em>, 62(3), 54-60.</td>
+</tr>
+</tbody>
+</table>
+<!-- <details>
+  <summary></summary>
+  <i class="fas fa-robot  pr-1 fa-fw"></i> This article explores obstacles in machine learning systems, such as adaptability, explainability, and cause-effect understanding, and proposes the use of causal modeling tools to overcome these challenges. It discusses the three-level hierarchy of causal reasoning, which involves association, intervention, and counterfactual thinking. Causal diagrams and structural causal models are presented as crucial tools for representing and estimating causal effects from data.
+</details>  -->
+<h2 id="secondary-readings">Secondary Readings</h2>
+<p>The presenter should read and incorporate at least one of these.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">
+  <i class="fas fa-scroll  pr-1 fa-fw"></i> Bramley, N. R., Lagnado, D. A., &amp; Speekenbrink, M. (2015).</td>
+<td style="text-align:left"><details>
+  <summary>Conservative forgetful scholars: How people learn causal structure through sequences of interventions. <em>Journal of Experimental Psychology: Learning, Memory and Cognition</em>, 41(3), 708.</summary>
+  <p><i class="fas fa-robot  pr-1 fa-fw"></i> This article explores how people learn causal structures through interventions. The researchers developed a computer task where participants learned the structure of probabilistic causal systems. They developed models to understand participants&rsquo; intervention choices and judgments, considering memory and processing limitations. The study found that successful participants used a model that maximized information gain, forgot evidence from earlier trials, and had conservative beliefs. The study highlights the importance of active learning and the use of simple heuristics in causal structure identification.</p>
+<p><i class="fas fa-chalkboard-teacher  pr-1 fa-fw"></i> Like Coenen et al, this is an example of human causal learning through interventions, at rung 2 of Pearl&rsquo;s ladder.</p>
+
+</details></td>
+</tr>
+<tr>
+<td style="text-align:center">
+  <i class="fas fa-scroll  pr-1 fa-fw"></i>  Quillien, T., &amp; Lucas, C. G. (2023).</td>
+<td style="text-align:left"><details>
+  <summary>Counterfactuals and the logic of causal selection. <em>Psychological Review</em>.</summary>
+  <i class="fas fa-robot  pr-1 fa-fw"></i> Quillien and Lucas explore the relationship between counterfactuals and causal selection. They propose a counterfactual theory, suggesting that people imagine alternative possibilities and judge causal responsibility based on the correlation between factors across these simulations. The theory is supported by empirical data and experiments. The article discusses the use of a computational model, the Counterfactual Effect Size Model (CESM), to explain human judgments in various studies related to causal attributions and judgments. The CESM is found to have a good fit with the data and is able to predict participants&rsquo; intuitions accurately.
+</details></td>
+</tr>
+<tr>
+<td style="text-align:center">
+  <i class="fas fa-scroll  pr-1 fa-fw"></i>  Pearl, J. (2000/2009)</td>
+<td style="text-align:left"><details>
+  <summary>Causality: Chapters 1-2. (On Learn)</summary>
+  <p><i class="fas fa-chalkboard-teacher  pr-1 fa-fw"></i> This important book laid formal/mathmatical groundwork for causal modelling in data science but also use of bayesian networks as representations of structural knowledge about the world, particularly causal, combining this with principles of probabilistic inference and statistical dependence. It is technical but readable.</p>
+<p><i class="fas fa-robot  pr-1 fa-fw"></i> Chapter one of the book introduces the concepts of probabilities, graphs, and causal models. It highlights the importance of probabilities in studying causality, especially in disciplines such as economics, epidemiology, sociology, and psychology. Probability theory helps determine the strength of causal connections and make inferences from noisy observations. The chapter also discusses the use of probabilities in handling exceptions that cannot be processed by deterministic logic. The passage goes on to introduce various concepts within probability theory such as axioms, conditional probabilities, Bayesian inference, joint distribution functions, and graphical models. It explains the properties and terminology associated with probabilities, graphs, and causal models. The chapter also explores the application of probabilities and causal models to hypothesis testing, interventions, and counterfactual analysis.</p>
+<p>Overall, these chapters provide a comprehensive introduction to probabilities, graphs, and causal models, highlighting their applications and implications in studying causality.</p>
+
+</details></td>
+</tr>
+</tbody>
+</table>
+<h2 id="questions-under-discussion">Questions under discussion</h2>
+<ul>
+<li>What are the levels of Pearl’s Ladder of Causation?</li>
+<li>What makes an intervention valuable?</li>
+<li>What are counterfactuals and what role do they play in reasoning?</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="http://example.org/tag/sem1/">sem1</a>
+  
+  <a class="badge badge-light" href="http://example.org/tag/w4/">w4</a>
+  
+  <a class="badge badge-light" href="http://example.org/tag/t/">t</a>
+  
+  <a class="badge badge-light" href="http://example.org/tag/nb/">nb</a>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="http://example.org/"><img class="avatar mr-3 avatar-circle" src="http://example.org/author/neil-bramley/avatar_hu276bddfe2349f72de89df83b87127526_55667_270x270_fill_q75_lanczos_center.jpg" alt="Neil Bramley"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="http://example.org/">Neil Bramley</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:neil.bramley@ed.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/NeilBramley" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=MTmii2YAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/neilbramley" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="http://example.org/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="http://example.org/en/js/wowchemy.min.4ea9cc8d09c5c158656ac1a804743b34.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

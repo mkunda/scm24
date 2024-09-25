@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sem1 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/sem1/</link>
+      <atom:link href="http://example.org/tag/sem1/index.xml" rel="self" type="application/rss+xml" />
+    <description>sem1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>sem1</title>
+      <link>http://example.org/tag/sem1/</link>
+    </image>
+    
+    <item>
+      <title>Representation</title>
+      <link>http://example.org/projects/representation/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/representation/</guid>
+      <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. But what &lt;em&gt;are&lt;/em&gt; representations?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Markman, A.B. (1998)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Knowledge Representation: Chapter One (on learn)&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pop out notes with a chalkboard item are guides from your instructors. This reading is on Learn.&lt;/p&gt;
+&lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The chapter focuses on mental representations and their role in understanding cognitive processes. It explores different ways of thinking about mental entities and their representation, such as goals, beliefs, and concepts, as well as processes like retrieval and reasoning. The chapter also discusses the role of logical reasoning and its application in tasks such as the Wason selection task. Additionally, the chapter explores the concept of representation in relation to temperature. It discusses different analog and symbolic representations and their limitations. The chapter also examines the issue of intentionality and the interpretation of representations in cognitive systems. --&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tolman, E.C. (1948)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Cognitive maps in rats and men. &lt;em&gt;Psychological Review&lt;/em&gt;, 55(4), 189.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  This passage discusses the concept of cognitive maps in rats and humans. It explores different viewpoints on the formation and use of these mental maps. The passage describes experiments with rats in maze navigation and how their behavior changes over time as they learn to find food more efficiently. It also discusses different schools of thought in animal psychology, with some advocating for purely stimulus-response connections and others arguing for the involvement of strengthened connections. The passage highlights the importance of determining whether cognitive maps are narrow or comprehensive and discusses the implications of these maps for animal behavior. It also describes studies that support the theory of learning involving the development of cognitive maps. Overall, the passage provides insights into the understanding of cognitive mapping abilities in rats and its implications for human behavior.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;additional-readings&#34;&gt;Additional Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Larkin &amp;amp; Simon (1987)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Why a Diagram is (Sometimes) Worth 10,000 Words. &lt;em&gt;Cognitive Science&lt;/em&gt;, 11, 65-99.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Pop out notes with a robot icon are automatically generated paper summaries. So take them with a grain of salt!&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the advantages of using diagrammatic representations in problem-solving. Diagrams can convey implicit information more efficiently than sentential representations. The authors examine the computational efficiency and effectiveness of both types of representations in solving mathematical and physics problems. They argue that diagrams provide explicit information at a single location, enabling smoother problem-solving processes with reduced need for search and computation.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; van Gelder, T. (1995)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;What Might Cognition Be, If Not Computation? &lt;em&gt;The Journal of Philosophy&lt;/em&gt;, 92(7), 345-381.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this article, the author challenges the dominant computational view of cognition and explores alternative explanations for cognitive processes. The author discusses various research programs, such as connectionism, neurocomputational approaches, and ecological psychology, that offer different conceptions of cognition.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gardner, H. (1985) | &lt;details&gt;
+  &lt;summary&gt;The Mind&amp;rsquo;s New Science: A history of the cognitive revolution Chapter One (on Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The passage introduces the book &amp;ldquo;The Mind&amp;rsquo;s New Science&amp;rdquo; and provides a brief overview of its content. The book focuses on current cognitive-scientific work and aims to explore fundamental philosophical questions. The author highlights the importance of resolving the computational paradox and meeting the cognitive challenge for the future of cognitive science. The book also discusses the historical background of cognitive science, dating back to classical times, and its emergence as a recognized pursuit in the last few decades.
+&lt;/details&gt;| --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What was the cognitive revolution?&lt;/li&gt;
+&lt;li&gt;What are representations?&lt;/li&gt;
+&lt;li&gt;What evidence do we have for cognitive representations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Processes</title>
+      <link>http://example.org/projects/processes/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/processes/</guid>
+      <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. What are processes?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Donders, F.C. (1898)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;On the speed of mental processes. &lt;em&gt;Acta psychologica&lt;/em&gt;, 30, 412-431.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Sternberg, S. (1966)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Memory Scanning: Mental Processes Revealed by Reaction-Time Experiments. &lt;em&gt;American Scientist&lt;/em&gt;, 57(4), 421-457.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article  explores the use of reaction-time experiments to understand the mental processes involved in memory scanning. The article discusses the stage theory of information processing and the subtraction method used to analyze reaction times. It explores the differences between simple exhaustive search and self-terminating search processes. The article also discusses the memory processes involved in storing and retrieving information.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Smith, P.L. &amp;amp; Ratcliff, R. (1995)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;An Introduction to the Diffusion Model of Decision Making. In &lt;em&gt;An introduction to model-based cognitive Neuroscience&lt;/em&gt; (pp. 49-70). Springer, New York, NY.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The diffusion model of decision making is introduced in this chapter. The model assumes that decisions are made by accumulating noisy evidence until reaching a response criterion. The time taken to reach criterion determines the decision time, while the response is determined by which criterion is reached first. The chapter describes the main features of the model, methods for obtaining response time predictions, fitting it to experimental data, and representing the fit graphically. The model is compared to other models and is the most widely applied to empirical data in psychology. The diffusion model focuses on two-alternative decision tasks and uses continuous-time versions of random walks to interpret evidence. The model predicts choice probabilities and response time distributions and has been extensively studied. It can account for speed-accuracy trade-offs and bias effects in decision making. The chapter also discusses the links between evidence accumulation and processes in psychology and neuroscience. Overall, the diffusion model provides a useful tool for analyzing decision-making data and understanding the cognitive processes involved.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Meyer, D.E. &amp;amp; Schvaneveldt, R. (1976)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Meaning, Memory Structure and Mental Processes: People&amp;rsquo;s rapid reactions to words help reveal how stored semantic information is retrieved. &lt;em&gt;Science&lt;/em&gt;, 192(4234), 27-33&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage provides an overview of a research study conducted by experimental psychologists on human learning and memory, with a focus on semantic information retrieval. The study used a reaction time method to measure word recognition and sentence comprehension. The researchers manipulated set relations and sizes of categories in sentences and found that reaction times were faster when the meanings of category names were closely related and slower when the sizes of the categories mentioned were more different from each other. The implications of these findings are discussed in relation to a model of human memory and the effects of category size on reaction times.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shiffrin and Schneider (1977)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Controlled and Automatic Human Information Processing: II. Perceptual Learning, Automatic Attending, and a General Theory. &lt;em&gt;Psychological Review&lt;/em&gt;, 84 (2)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a series of experiments that explore the two-process theory of human information processing, specifically focusing on automatic detection and controlled search. The experiments manipulate variables such as frame size, memory-set size, and mapping procedure to investigate the differences between these modes and their impact on attention. The results suggest that automatic attention can be learned in certain paradigms and that the presence of categories can improve performance in controlled search and facilitate the development of automatic detection.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How can we measure mental processes from behaviors?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concepts</title>
+      <link>http://example.org/projects/concepts/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/concepts/</guid>
+      <description>&lt;p&gt;“&lt;em&gt;Concepts are the glue that holds our mental world together&lt;/em&gt;” (Murphy, 2002, p1).&lt;/p&gt;
+&lt;p&gt;This session will explore recent attempts to model the structure of human concepts. This will involve engaging with a historical debate and distinction between more &amp;ldquo;statistical&amp;rdquo; and more &amp;ldquo;rule-based&amp;rdquo; models and their implications but also thinking about how our concepts relate to how we categorize things but also how we think and generate new ideas.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Murphy, G. L. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chapter 2, &lt;em&gt;The big book of concepts&lt;/em&gt;. MIT Press (On Learn)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp;amp; Griffiths, T. L. (2008)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A rational analysis of rule‐based concept learning. &lt;em&gt;Cognitive Science&lt;/em&gt;, 32(1), 108-154.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lake, B. M., Salakhutdinov, R., &amp;amp; Tenenbaum, J. B. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Human-level concept learning through probabilistic program induction. &lt;em&gt;Science&lt;/em&gt;, 350(6266), 1332-1338.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;The article highlights two aspects of human conceptual knowledge that have eluded machine systems: the ability to learn new concepts from just one or a few examples, and the ability to learn rich and flexible representations. The authors propose the Bayesian Program Learning (BPL) framework, which can learn a wide range of visual concepts from just a single example and generalize in ways that are similar to human behavior. BPL represents concepts as stochastic programs and utilizes compositionality, causality, and learning to learn as key ideas.&lt;/p&gt;
+&lt;p&gt;The authors present a computational model that captures these human learning abilities specifically for simple visual concepts, using handwritten characters from different alphabets as examples. The model represents concepts as simple programs that best explain observed examples, using a Bayesian criterion. In a one-shot classification task, the model achieves human-level performance and outperforms recent deep learning approaches. The model&amp;rsquo;s creative generalization abilities are tested through several &amp;ldquo;visual Turing tests,&amp;rdquo; which show that in many cases, the model&amp;rsquo;s behavior is indistinguishable from human behavior.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the first really modern modelling paper on the reading list. It showcases the power of hierarchical Bayesian program induction as a theory of conceptual structure. In being based in symbolic rules/programs, it is a successor to Goodman et al (2008), but  the domain is much more naturalistic and the computational cost of fitting this model is far higher. Note also the differences in writing style compared to the classic papers, e.g. compressed, concise, visual, snappy but key details in an appendix.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shepard, R. N., Hovland, C. I. and Jenkins, H. M. (1961)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Learning and Memorization of Classifications. &lt;em&gt;Psychological Monographs: General and Applied&lt;/em&gt;, 75(13), 1.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study includes a series of experiments that investigate the learning and memorization of different types of classifications. The results show that the structure of the classification and the complexity of the rules involved affect the difficulty of the task. Overall, the study provides insights into the factors that determine the difficulty of learning and remembering classifications. It highlights the importance of considering the structure of the classification, the complexity of the rules, and the use of different stimuli in understanding the learning and memorization process.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The experiments in this paper are long and complicated but what makes it famous is the way Shepard visualizes concepts/classification rules of different complexity (i.e. Figures 2 and 3). These visualizations and the logic behind them are widely used in categorization research and teaching today.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do concepts relate to categories?&lt;/li&gt;
+&lt;li&gt;What about to previous topics? e.g. Are concepts representations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Categorization</title>
+      <link>http://example.org/projects/categorization/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/categorization/</guid>
+      <description>&lt;p&gt;Plato famously characterised humans as seeking to ‘carve nature at its joints’ (Phaedrus). The rough idea is that we find ways to classify and group the things in our experience in ways that somehow respect their natural clustering and separation.&lt;/p&gt;
+&lt;p&gt;This topic looks at cognitive models that have tried to capture how and why we partition the world in the ways we do.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Posner and Keele (1968)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;On the genesis of abstract ideas. &lt;em&gt;Journal of Experimental Psychology&lt;/em&gt;, 77 (3).&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This journal article examines the process of abstract idea formation in humans and the role of pattern recognition and variability in learning and transfer tasks. The authors find that individuals can learn to classify distorted patterns even without having seen the prototype, and that the prototype is more easily classified than control patterns within the same category. The study also suggests that higher variability patterns are better transferred and recognized compared to low variability patterns. The researchers also discuss the philosophical notion of abstract representations and their relevance to perception. The study involved multiple experiments and analyses, including measuring distances between patterns, reaction times, and error rates. The results consistently show that schema patterns are better recognized and have lower error rates compared to new distortions. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the original appearance of the now classic &amp;ldquo;prototype theory&amp;rdquo; of categorization.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Love, B. C., Medin, D. L., &amp;amp; Gureckis, T. M. (2004).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;SUSTAIN: a network model of category learning. &lt;em&gt;Psychological Review&lt;/em&gt;, 111(2), 309.&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The document introduces the Sustain model, a network model of category learning that focuses on how humans learn categories from examples. It discusses the model&#39;s ability to adapt and recruit additional clusters when faced with surprising events, as well as its ability to discover category substructure. The document highlights the importance of flexibility and category substructure in category learning models. It provides an overview of the basic components and principles of the Sustain model, including its input representation, parameters, and behavior equations. The document also compares Sustain to other category learning models and discusses its implications and contributions. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;s a much more recent &amp;ldquo;non-parametric&amp;rdquo; statistical category model. Can it resolve some of the shortcomings or tensions between prototype and exemplar models.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Murphy, G. L. (1968) G. L. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 3, &lt;em&gt;The big book of concepts&lt;/em&gt;. MIT Press (On Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This chapter discusses theories of concepts, specifically focusing on the prototype view, exemplar view, and the knowledge approach. The prototype view suggests that categories are represented by a prototype, which is a summary representation of the entire category with certain features being more important. The exemplar view states that categories are represented by individual exemplars that we remember and compare to new items. The knowledge approach argues that concepts are shaped by prior knowledge and understanding. The passage also introduces the Generalized Context Model (GCM), which calculates similarity and categorization decisions based on distances between exemplars. It discusses the use of weighted dimensions and the Luce choice axiom in the GCM. The GCM has received both praise and criticism but has been influential in the field of categorization. Overall, the chapter highlights the complexity of concept representation and the various factors that influence categorization decisions.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Medin, D., &amp;amp; Schaffer, M. (1978).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Context theory of classification. &lt;em&gt;Psychological Review&lt;/em&gt;, 85, 207-238.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the theory of classification learning, specifically the context model, which proposes that judgments are based on stored exemplar information and similarity between stimuli. Four experiments consistently support the context model over other theories. The article also discusses the structure of concepts and the role of exemplars in learning.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the original appearance of the now classic &amp;ldquo;exemplar theory&amp;rdquo; of categorization.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Rosch, E., Mervis, C.B., Gray, W., Johnson, D., &amp;amp; Boyes-Braem, P. (1976)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Basic Objects in Natural Categories. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 8(3), 382-439.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study conducted by Rosch et al. explores the concept of categorization in cognitive psychology, specifically focusing on basic level categories. The researchers argue that categories in the concrete world are not arbitrary, but determined by the correlational structure of perceived objects and the need for cognitive efficiency. They suggest that basic categories are the most inclusive and differentiated, carrying the most information and possessing high category cue validity.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Another classic.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gershman, S. J. (2017)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;On the Blessing of Abstraction. &lt;em&gt;Quarterly Journal of Experimental Psychology&lt;/em&gt; 70 (3).&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The blessing of abstraction refers to the phenomenon that abstract knowledge can sometimes be acquired more quickly than specific knowledge. Gershman tests this hypothesis using hierarchical Bayesian models and an experiment manipulating the dispersion of variables. The experiment involved participants predicting the next button press in sequences of button presses. The size range of the buttons was manipulated to create different levels of dispersion. The results showed that in the low dispersion condition, abstract knowledge was acquired more quickly than specific knowledge. However, in the high dispersion condition, specific knowledge was acquired more quickly. These findings support the idea that the blessing of abstraction depends on the dispersion of specific variables. Gershman suggests that hierarchical Bayesian models provide a framework for understanding how learning occurs at different levels of abstraction simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; A short recent paper that touches on how categories are arranged hierarchically.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What is a category? How does it relate to a concept?&lt;/li&gt;
+&lt;li&gt;Why is categorization so central for cognition?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Objects &amp; Events</title>
+      <link>http://example.org/projects/objects/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/objects/</guid>
+      <description>&lt;p&gt;Light hits our eyes  and somehow we perceive 3 dimensional &amp;lsquo;objects&amp;rsquo;.
+What is an object?
+In representational systems like programming languages, objects are core structure.
+Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&gt;
+&lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Spelke, E.S. (1990)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Principles of object perception. &lt;em&gt;Cognitive Science&lt;/em&gt;, 14(1), 29-56.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Zacks, J. M., &amp;amp; Tversky, B. (2001)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Event structure in perception and conception. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 127(1), 3.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the importance of event structure in perception, comprehension, memory, planning, and action. It suggests that events, like objects, have categories and parts, and understanding these relationships can enhance cognitive processes. The article explores the hierarchical nature of events and how they can be categorized and segmented based on different factors. It also discusses the role of language in event perception and the influence of goals and causal interactions on event recognition. The text highlights the similarities and differences between objects and events and emphasizes the importance of structured representations in understanding and remembering events.&lt;/p&gt;
+&lt;p&gt;The article also discusses the role of event schemata and goals in comprehension and memory recall. It further explores how event perception and cognition involve the interaction of different information sources and the limitations of hierarchical partonomic hierarchies. The article concludes with a list of references related to event perception, cognition, and memory.&lt;/p&gt;
+
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fillmore, C. J. (1970)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The grammar of hitting and breaking. &lt;em&gt;Readings in English Transformational Grammar&lt;/em&gt;, 120-133. (on Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This research explores the distinction between implicit and explicit knowledge of language, focusing on the verbs &amp;ldquo;hit&amp;rdquo; and &amp;ldquo;break&amp;rdquo; in English. Fillmore argues that while speakers may struggle to explain the usage and meaning of these words, they rarely make mistakes when using them. He emphasizes the need for linguistic observations to be incorporated into an empirical theory of linguistic structure. It explores the ambiguity of sentences and the role of body-part nouns in indicating places rather than objects.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lettvin, J. Y. et al., (1957)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;What the frog&amp;rsquo;s eye tells the frog&amp;rsquo;s brain. &lt;em&gt;Proceedings of the IRE&lt;/em&gt;, 47(11), 1940-1951.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  This paper presents research on the activity of single fibers in the optic nerve of frogs. The authors investigate what kind of stimulus causes the largest activity in one nerve fiber and what aspect of that stimulus is most excitatory. They find that the pattern of local variation in intensity, rather than the light intensity itself, is the most excitatory factor for the frog&amp;rsquo;s eye. The study provides a detailed analysis of the anatomy, physiology, and behavior of the frog&amp;rsquo;s visual apparatus. The research emphasizes that the frog&amp;rsquo;s eye informs the brain about the visual image in terms of local pattern, independent of average illumination. The findings suggest that the frog&amp;rsquo;s visual system is highly organized and interpreted, and not simply transmitting an accurate copy of the distribution of light.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Biederman, I. (1987)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Recognition-by-Components: A Theory of Human Image Understanding. &lt;em&gt;Psychological Review&lt;/em&gt;, 94(2), 115.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the theory of recognition-by-components (RBC) in human image understanding. The theory proposes that objects are perceived by segmenting the input image into simple geometric components called geons. These geons can be derived from the contrasts of certain properties of edges in the image. The theory suggests that object recognition is robust and invariant to changes in viewing position and image quality. Experimental findings support the theory.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Scholl, Brian J. (2007)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Object persistence in philosophy and psychology. &lt;em&gt;Mind &amp;amp; Language&lt;/em&gt;, 22(5), 563-591.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  This article explores the concept of object persistence in both philosophy and psychology. It suggests that there are similarities between these two fields, indicating that psychological mechanisms may underlie the intuitions about persistence that fuel metaphysical theories. The goal is to bridge the gap between cognitive science and metaphysics and potentially contribute to philosophical progress. The article discusses themes such as spatiotemporal continuity, persistence through property change, and cohesion, and how these themes have led to empirical discoveries in psychological research. It also explores various scenarios and challenges our intuitions about the identity and persistence of objects over time. The article highlights the importance of cohesion as a principle for object persistence and discusses the role of intuitions and psychological mechanisms in influencing our judgments and interpretations. It also considers the potential for psychology to contribute to philosophy in understanding the origins of metaphysical intuitions.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Cavanaugh, P. (2011) | &lt;details&gt;
+  &lt;summary&gt;Visual cognition. &lt;em&gt;Vision Research&lt;/em&gt;, 51(13), 1538-1551.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses various aspects of visual cognition, including visual executive functions, attention, object recognition, motion perception, and the role of shadows in perception. The authors highlight the need for further research in these areas to better understand the mechanisms underlying visual cognition and its interaction with other cognitive processes.
+&lt;/details&gt;  | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do we represent object information?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s missing from these representations?&lt;/li&gt;
+&lt;li&gt;Events: linguistic artifact or core knowledge?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inductive Reasoning</title>
+      <link>http://example.org/projects/induction/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/induction/</guid>
+      <description>&lt;p&gt;While Sherlock&amp;rsquo;s over there blogging &lt;em&gt;The Science of Deduction&lt;/em&gt;, I&amp;rsquo;d argue most of human reasoning is &lt;strong&gt;inductive&lt;/strong&gt;. We see lot&amp;rsquo;s of examples (e.g., 10 million white swans) and then try to explain them (swans are white). Checks out, right?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Goodman, N. (1955)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The Riddle of Induction. Chapter 3 of &lt;em&gt;Fact, fiction, and forecast&lt;/em&gt; (pp. 59&amp;ndash;83). Cambridge, MA: Harvard University Press. (On Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt;This is a classic. Nelson Goodman  was an influential philosopher of science (not to be confused with the living Standford based scientist Noah Goodman below). His thought experiment about Grue, in particular has been a persistant challenge for theories of induction.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Wason, P. C. (1960).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;On the failure to eliminate hypotheses in a conceptual task. &lt;em&gt;Quarterly Journal of Experimental Psychology&lt;/em&gt;, 12(3), 129-140.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt;This is another classic. Peter Wason who we met in Representation topic has had at least two lasting impacts on cogntibve science: One with his card selection task analysis and another with this inductive reasoning task.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  The article explores how the mind develops through the use of statistics, structure, and abstraction. It emphasizes the importance of understanding how the mind processes information and how it can be applied to various fields such as artificial intelligence and cognitive science. It focuses on the challenges of learning from sparse, noisy, and ambiguous data and highlights the ability of children to learn new words and concepts from just a few examples. It explains how Bayesian principles in the human mind are applied to specific cognitive capacities and modules. The article discusses the importance of abstract knowledge in learning, how learners acquire this knowledge, and different forms of abstract knowledge representation used in Bayesian cognitive models. It also discusses the concept of hierarchical Bayesian models and their role in learning abstract knowledge. The article concludes by highlighting the potential of Bayesian approaches in understanding cognition and its origins. --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tenenbaum, J. B., Kemp, C., Griffiths, T. L., &amp;amp; Goodman, N. D. (2011).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;How to grow a mind: Statistics, structure, and abstraction. &lt;em&gt;Science&lt;/em&gt;, 331(6022), 1279-1285.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;s another relatively modern paper as a comparison. Again it is interesting to compare the writing styles. It would seem like hierarchical Bayesian inference can help make more sense of how our inductive reasoning works, but does it really solve the riddle of induction? Note this paper is also quite relevant to the Rationality topic.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  The article explores how the mind develops through the use of statistics, structure, and abstraction. It emphasizes the importance of understanding how the mind processes information and how it can be applied to various fields such as artificial intelligence and cognitive science. It focuses on the challenges of learning from sparse, noisy, and ambiguous data and highlights the ability of children to learn new words and concepts from just a few examples. It explains how Bayesian principles in the human mind are applied to specific cognitive capacities and modules. The article discusses the importance of abstract knowledge in learning, how learners acquire this knowledge, and different forms of abstract knowledge representation used in Bayesian cognitive models. It also discusses the concept of hierarchical Bayesian models and their role in learning abstract knowledge. The article concludes by highlighting the potential of Bayesian approaches in understanding cognition and its origins.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Goyal, A., &amp;amp; Bengio, Y. (2022).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Inductive biases for deep learning of higher-level cognition. &lt;em&gt;Proceedings of the Royal Society A&lt;/em&gt;, 478 (20210068).&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  This paper examines the hypothesis that human and animal intelligence can be explained by a few principles. It focuses on the inductive biases used in deep learning for higher-level and sequential conscious processing in order to close the gap between current deep learning and human cognitive abilities. It emphasizes the need for additional inductive biases to achieve flexibility, robustness, and adaptability in deep learning models, particularly through knowledge representation. It also discusses the limitations of current machine learning systems in terms of their performance, generalizability, and robustness.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;sa  recent paper by some of the big names in machine learning. It highlights very similar issues and solutions to problems of inductive generalization and the role of priors or inductive biases as arise in the human cognition literature.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How/do humans rationally solve the problem of induction?&lt;/li&gt;
+&lt;li&gt;What are inductive biases and what are they good for?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causality</title>
+      <link>http://example.org/projects/causality/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/causality/</guid>
+      <description>&lt;p&gt;The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.&lt;/p&gt;
+&lt;p&gt;In this session, we will think about how to model the cognition involved in learning, representing and exploiting a causal model of the world.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Coenen, A., Rehder, B., &amp;amp; Gureckis, T. M. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Strategies to intervene on causal systems are adaptively selected. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 79, 102-133.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pearl, J. (2019).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;The seven tools of causal inference, with reflections on machine learning. &lt;em&gt;Communications of the ACM&lt;/em&gt;, 62(3), 54-60.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores obstacles in machine learning systems, such as adaptability, explainability, and cause-effect understanding, and proposes the use of causal modeling tools to overcome these challenges. It discusses the three-level hierarchy of causal reasoning, which involves association, intervention, and counterfactual thinking. Causal diagrams and structural causal models are presented as crucial tools for representing and estimating causal effects from data.
+&lt;/details&gt;  --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least one of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Lagnado, D. A., &amp;amp; Speekenbrink, M. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Conservative forgetful scholars: How people learn causal structure through sequences of interventions. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory and Cognition&lt;/em&gt;, 41(3), 708.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores how people learn causal structures through interventions. The researchers developed a computer task where participants learned the structure of probabilistic causal systems. They developed models to understand participants&amp;rsquo; intervention choices and judgments, considering memory and processing limitations. The study found that successful participants used a model that maximized information gain, forgot evidence from earlier trials, and had conservative beliefs. The study highlights the importance of active learning and the use of simple heuristics in causal structure identification.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Like Coenen et al, this is an example of human causal learning through interventions, at rung 2 of Pearl&amp;rsquo;s ladder.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Quillien, T., &amp;amp; Lucas, C. G. (2023).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Counterfactuals and the logic of causal selection. &lt;em&gt;Psychological Review&lt;/em&gt;.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Quillien and Lucas explore the relationship between counterfactuals and causal selection. They propose a counterfactual theory, suggesting that people imagine alternative possibilities and judge causal responsibility based on the correlation between factors across these simulations. The theory is supported by empirical data and experiments. The article discusses the use of a computational model, the Counterfactual Effect Size Model (CESM), to explain human judgments in various studies related to causal attributions and judgments. The CESM is found to have a good fit with the data and is able to predict participants&amp;rsquo; intuitions accurately.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Pearl, J. (2000/2009)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Causality: Chapters 1-2. (On Learn)&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This important book laid formal/mathmatical groundwork for causal modelling in data science but also use of bayesian networks as representations of structural knowledge about the world, particularly causal, combining this with principles of probabilistic inference and statistical dependence. It is technical but readable.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Chapter one of the book introduces the concepts of probabilities, graphs, and causal models. It highlights the importance of probabilities in studying causality, especially in disciplines such as economics, epidemiology, sociology, and psychology. Probability theory helps determine the strength of causal connections and make inferences from noisy observations. The chapter also discusses the use of probabilities in handling exceptions that cannot be processed by deterministic logic. The passage goes on to introduce various concepts within probability theory such as axioms, conditional probabilities, Bayesian inference, joint distribution functions, and graphical models. It explains the properties and terminology associated with probabilities, graphs, and causal models. The chapter also explores the application of probabilities and causal models to hypothesis testing, interventions, and counterfactual analysis.&lt;/p&gt;
+&lt;p&gt;Overall, these chapters provide a comprehensive introduction to probabilities, graphs, and causal models, highlighting their applications and implications in studying causality.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the levels of Pearl’s Ladder of Causation?&lt;/li&gt;
+&lt;li&gt;What makes an intervention valuable?&lt;/li&gt;
+&lt;li&gt;What are counterfactuals and what role do they play in reasoning?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Reasoning</title>
+      <link>http://example.org/projects/physics/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/physics/</guid>
+      <description>&lt;p&gt;From pouring a cup of coffee to playing frogger through the streets, physical reasoning is ubiquitous in human behavior. Arguably these goals have been stable throughout the evolution of our species, so are we optimal physical reasoners?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; McCloskey, M. (1983)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Intuitive physics. &lt;em&gt;Scientific American&lt;/em&gt;, 248(4), 122-131.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Battaglia, P. W., Hamrick, J. B., &amp;amp; Tenenbaum, J. B. (2013)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Simulation as an engine of physical scene understanding. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;, 110(45), 18327-18332.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This research article introduces a model called the Intuitive Physics Engine (IPE) that uses approximate and probabilistic simulations to understand how people perceive and understand physical scenes. The model is based on computer engines used in video games and graphics and fits data from psychophysical tasks, captures illusions and biases, and explains core aspects of human mental models and common-sense reasoning. The article argues that understanding physical scenes is crucial for human interaction with the world and is linked to higher cognitive processes. The IPE model is shown to be able to compute intuitive inferences about scenes and capture how predictions are affected by factors such as object properties and applied forces.
+&lt;/details&gt;  --&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; McCloskey, M. (1983) | &lt;details&gt;
+  &lt;summary&gt;Naive theories of motion. In &lt;em&gt;Mental Models&lt;/em&gt; (pp. 307-332). Psychology Press.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt;   | --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ludwin-Peery, E., Bramley, N. R., Davis, E., &amp;amp; Gureckis, T. M. (2020)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Broken physics: A conjunction fallacy effect in intuitive physical reasoning. &lt;em&gt;Psychological Science&lt;/em&gt;, 31 (12), 1602-1611.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article investigates the conjunction fallacy in our ability to reason about physical events. Three experiments were conducted, and the results consistently showed that participants rated conjunction of two physical events as more likely than at least one of the constituent events in the same scenes. This raises questions about current theories of mental simulation in physical reasoning.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Relating to the primary readings, does this fit better with McCloskey&amp;rsquo;s view that physical reasoning is based on heuristic rules, or Battaglia et al&amp;rsquo;s view that it is based on detailed simulations?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gerstenberg, T., Goodman, N. D., Lagnado, D. A., &amp;amp; Tenenbaum, J. B. (2021).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A counterfactual simulation model of causal judgments for physical events. &lt;em&gt;Psychological Review&lt;/em&gt;, 128(5), 936.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+This article discusses the Counterfactual Simulation Model (CSM) and its application in understanding causal judgments in physical events. The CSM aims to predict how people make causal judgments by comparing what actually happened with what could have happened. The model is tested in experiments and provides a better fit than heuristic models. It captures different aspects of causation and can be used to model the semantics of causal verbs.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Relating to the Causality topic, what rung of causal reasoning is this?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do humans represent physical knowledge and use that knowledge to achieve their goals?&lt;/li&gt;
+&lt;li&gt;Are we optimal physical reasoners?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rationality</title>
+      <link>http://example.org/projects/rationality/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/rationality/</guid>
+      <description>&lt;p&gt;In popular culture, we often think of &lt;em&gt;rationality&lt;/em&gt; as in tension with &lt;em&gt;intuition&lt;/em&gt;. We see this in caricatures of hyper-rational agents like Spock in Star Trek. The probabilistic revolution in cognitive science has changed this notion. It is not rational to treat every task as logical deduction when the world itself is underdetermined and radically uncertain. This session will explore the notion of being rational in an uncertain world.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Oaksford, M., &amp;amp; Chater, N. (2001).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;The probabilistic approach to human reasoning. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(8), 349-357.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Marr, David (1982)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 1 of &lt;em&gt;Vision&lt;/em&gt;, MIT press (on Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This book is famous for its presentation of &amp;ldquo;Marr&amp;rsquo;s levels&amp;rdquo;: The three interrelated levels levels of analysis at which one can explain the behavoiur of any computational system (in Figure 1-4). This is an incredibly central idea in cognitive science that has had a major impact on comptuational modelling work ever since and well worth familiarizing yourself with if it isn&amp;rsquo;t already familiar to you.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gershman, S. J., Horvitz, E. J., &amp; Tenenbaum, J. B. (2015). | &lt;details&gt;
+  &lt;summary&gt;Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. &lt;em&gt;Science&lt;/em&gt;, 349(6245), 273-278.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt;   | --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Simon, H. A. (1955).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A behavioral model of rational choice. &lt;em&gt;The Quarterly Journal of Economics&lt;/em&gt;, 69(1), 99-118.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this research paper, Herbert A. Simon discusses the need to revise the traditional economic model of &amp;ldquo;economic man&amp;rdquo; as a rational decision-maker. He proposes a behavioral model of rational choice that takes into account the limited information and computational capacities of individuals. Simon emphasizes the importance of considering the decision-maker&amp;rsquo;s characteristics and the specific situation they are in when defining rational behavior. He explores variables that can be controlled and optimized for rational adaptation, as well as fixed variables that must be taken into account. The paper also discusses the application of this model to game theory, decision-making, and chess. Simon suggests simplifications and approximations that align with observed human behavior and addresses objections to simple pay-off functions in certain choice situations. He also highlights the importance of information gathering and refining the mapping of possible outcomes in decision-making. The paper concludes by discussing the implications of this behavioral model for understanding human decision-making in various contexts and the potential normative and descriptive value of this model.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lieder, F., &amp;amp; Griffiths, T. L. (2020).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. &lt;em&gt;Behavioral and brain sciences&lt;/em&gt;, 43, e1.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the concept of resource-rational analysis, a cognitive modeling paradigm that integrates rational principles with cognitive constraints to better understand and improve human cognition.&lt;/p&gt;
+&lt;p&gt;The article also discusses the challenges faced by research on human cognition and introduces the concept of bounded optimality as a theory for designing optimal programs for agents with limited resources. It proposes that resource-rational analysis provides a method for understanding how the human mind uses its limited cognitive resources. It suggests that cognitive biases may be a result of limited cognitive resources rather than irrationality, and understanding these limitations can lead to improved AI and a redefinition of cognitive biases.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What does it mean to be rational?&lt;/li&gt;
+&lt;li&gt;What does probability theory have to do with it?&lt;/li&gt;
+&lt;li&gt;What does it mean to be boundedly rational or resource rational?&lt;/li&gt;
+&lt;li&gt;Broadly speaking, are people any of the above?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development &amp; Learning</title>
+      <link>http://example.org/projects/development/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/development/</guid>
+      <description>&lt;p&gt;Compared to other animals, humans are flexible generalists. We are born  “half baked”, with relatively little in the way of initial skills or “core knowledge”. We spend decades growing and maturing and even once mature can continue to be able to learn new things. This session will explore a zoomed out perspective on how the human mind achieves this impressive flexibility. This touches on how the ability to learn and change shifts over our lifespans and the benefits and costs of childlike cognition.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Spelke and Kinzler (2006)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Core knowledge. &lt;em&gt;Developmental Science&lt;/em&gt;, 1, 10.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gopnik, A., Griffiths, T. L., &amp;amp; Lucas, C. G. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;When younger learners can be better (or at least more open-minded) than older ones. &lt;em&gt;Current Directions in Psychological Science&lt;/em&gt;, 24(2), 87-92.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study discussed in this text explores the idea that younger learners may have an advantage over older learners when it comes to acquiring knowledge and learning abstract causal principles. The authors present evidence that younger children are better at inferring unlikely causal hypotheses from evidence and are more flexible in their thinking compared to adults.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Dayan, P., Griffiths, T. L., &amp;amp; Lagnado, D. A. (2017).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Formalizing Neurath’s ship: Approximate algorithms for online causal learning. &lt;em&gt;Psychological Review&lt;/em&gt;, 124(3), 301.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the use of approximate algorithms for online causal learning, using Neurath&amp;rsquo;s Ship as a formalization framework. The study proposes an algorithmic-level model of causal structure learning and examines the computational challenges and the need for approximations in causal learning. They use the concept of Neurath&amp;rsquo;s Ship to describe the incremental growth and evolution of beliefs about causal structure. Overall, the article presents various models and approaches to understanding human causal judgments and active learning. It discusses the use of approximations and the need for a general-purpose algorithm that can explain human success in learning complex causal models. The article also highlights the use of methods from machine learning to construct such an algorithm.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ullman, Tomer D. &amp;amp; Tenenbaum, Joshua B. (2020).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Bayesian Models of Conceptual Development: Learning as Building Models of the World. &lt;em&gt;Annual Review of Developmental Psychology&lt;/em&gt;, 2 (1).&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The use of Bayesian inference in model-building, including hierarchical Bayesian models and probabilistic generative programs, is discussed. The role of core knowledge in child learning and the relationship between intuitive theories and core knowledge are explored. Learning is described as a stochastic search process, with theory learning being a search for programs.&lt;/p&gt;
+&lt;p&gt;The text also discusses the theory theory and the child as scientist theory, as well as the use of Bayesian models and probabilistic programs to capture the structure of intuitive theories. The tensions between different methods of scientific experimentation are explored, and the same cognitive processes are noted to have different outcomes depending on the circumstances. The author suggests that a single program learning mechanism can be used to explain data but that its effectiveness depends on relevant data representations, input analyzers, and primitives available.&lt;/p&gt;
+&lt;p&gt;The text acknowledges the challenges of model-building in science and suggests that a comprehensive account of how humans develop models of the world would need to consider various factors such as individual differences, cultural influences, and computational constraints. The passage concludes by discussing ongoing work towards creating a computational model of cognitive development.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jacobs, R. A., Jordan, M. I., &amp; Barto, A. G. (1991). | Task decomposition through competition in a modular connectionist architecture - the what and where vision tasks. Cognitive Science, 15, 219-250. | --&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Hogarth, R. M., &amp; Einhorn, H. J. (1992) | &lt;details&gt;
+  &lt;summary&gt;Order effects in belief updating: The belief-adjustment model. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 24(1), 1-55.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt;   | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In what sense is childhood like simulated annealing?&lt;/li&gt;
+&lt;li&gt;What is the “Child as scientist” theory of development?&lt;/li&gt;
+&lt;li&gt;What might order effects in learning tasks reveal about about learning?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time</title>
+      <link>http://example.org/projects/time/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/time/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“For all the points of the compass, there’s only one direction and time is its only measure.”&lt;/em&gt; (Stoppard, 1966)&lt;/p&gt;
+&lt;p&gt;Unlike most computational systems, humans experience and must respond to their environment through time. One of the most basic forms of human and animal learning is to associate things that happen close together. Everyday activities like speech, music, dance demand precise time control, while imagination, mental simulation, and memory (“mental time travel”) seem to require encoding of (and ability to regenerate events) in the right temporal sequence. What then is the role of time in the various cognitive processes and representations we have been discussing throughout this course?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Elman, J. L. (1990)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Finding structure in time. &lt;em&gt;Cognitive Science&lt;/em&gt;, 14, 179-211.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gong, T. &amp;amp; Bramley, N. R. (to appear)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Evidence from the future. &lt;em&gt;Journal of Experimental Psychology: General&lt;/em&gt;, &lt;a href=&#34;https://psyarxiv.com/f67nx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://psyarxiv.com/f67nx/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the representation of time in connectionist models. It proposes representing time implicitly through its effects on processing rather than explicitly. Recurrent links and hidden unit patterns allow networks to develop internal representations that incorporate both task and memory demands. Simulations show that these representations are context-dependent and can express generalizations across classes of items. The article highlights challenges in incorporating temporal aspects into parallel-processing models and discusses the drawbacks of using a spatial metaphor to represent time. It emphasizes the context-sensitivity of representations and the advantages of distributed representations over symbolic representations.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Grice, G. R. (1948).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The relation of secondary reinforcement to delayed reward in visual discrimination learning. &lt;em&gt;Journal of Experimental Psychology&lt;/em&gt;, 38(1), 1.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article, published in 1948, explores the relationship between reinforcement and delayed reward in visual discrimination learning. The study involved training albino rats to discriminate between black and white stimuli under different conditions of delay of reward. The results showed that the number of trials required to reach the learning criterion varied based on the duration of the delay, and the type of secondary reinforcement had an effect on the learning process.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Gerstenberg, T., Mayrhofer, R., &amp;amp; Lagnado, D. A. (2018).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Time in causal structure learning. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory, and Cognition&lt;/em&gt;, 44(12), 1880.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This study examines how timing information influences judgments of causal strength and structure induction. Four experiments were conducted, revealing the importance of event order and temporal intervals in learning causal relationships. A Bayesian model accurately predicted participants&amp;rsquo; judgments, highlighting the significance of time in understanding causal learning.  Participants&amp;rsquo; judgments were largely explained by event order, but there was some evidence of delay sensitivity and participants were able to distinguish between causal structures based on event timings alone.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gong, T., Gerstenberg, T., Mayrhofer, R., &amp;amp; Bramley, N. R. (2023).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Active causal structure learning in continuous time. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 140, 101542.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses active causal structure learning in continuous time, exploring how people learn about causal structure and make intervention choices. The study finds that participants&amp;rsquo; accuracy depends on the informativeness and evidential complexity of the data they generate. Participants optimize their intervention choices to maximize expected information and minimize inferential complexity. The paper also discusses the computational challenges of active causal learning and the role of metacognitive awareness in successful learning. The findings provide insights into understanding how people learn about causal structure in dynamic environments.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Haggard, P., Clark, S., &amp; Kalogeras, J. (2002). | &lt;details&gt;
+  &lt;summary&gt;Voluntary action and conscious awareness. &lt;em&gt;Nature Neuroscience&lt;/em&gt;, 5(4), 382-385.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the relationship between voluntary action and conscious awareness. The authors argue that our experiences of voluntary action are the result of different stages of neural activity and that the central nervous system must bind these representations together to produce a coherent experience of our own actions. To study the links between representations of voluntary actions and their effects, the authors conducted experiments where subjects reported the perceived times of their actions and consequences. The results showed that voluntary actions and their effects are attracted together across time. Overall, the article provides evidence for a neural mechanism that binds together the perception of voluntary actions and their effects in conscious awareness. This intentional binding is crucial for our conscious experience of free will and our ability to perceive our actions as having an impact on the environment.
+&lt;/details&gt; | --&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Engel, A. K., &amp; Singer, W. (2001). | &lt;details&gt;
+  &lt;summary&gt;Temporal binding and the neural correlates of sensory awareness. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(1), 16-25.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How veridical is our perception of the time course of events and actions?&lt;/li&gt;
+&lt;li&gt;What problem do RNNs try to solve and how well do you think they achieve this?&lt;/li&gt;
+&lt;li&gt;How might time help us encode non-temporal things like relations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decision Making</title>
+      <link>http://example.org/projects/decision/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/decision/</guid>
+      <description>&lt;p&gt;Humans are said to be ‘predictably irrational’, departing from the ways that economists would like to think they will behave. Businesses, policy makers, marketers and consultants and increasingly economists would all like to understand how and why people make the decisions they do. The judgment and decision making topic focuses on these questions and has produced a number influential models capturing how people choose between options, often emphasizing heuristics (or computational shortcuts) we use to make choices with limited time or computational resources and trying to explicate when and why they work.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Todd, P. M., &amp;amp; Gigerenzer, G. (2000).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Précis of simple heuristics that make us smart. &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 23(5), 727-741.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; As well as being a summary of a much longer collected volume, this is a ``target article&amp;rsquo;&amp;rsquo; in &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;. This means a bunch of academics wrote commentaries on it. If you are interested in this topic it is worth having a look at some of these these commentaries, as well as the article to get a sense of a wider set of viewpoints and the relevant debates. E.g. in the early 2000&amp;rsquo;s there was a debate in cognitive science between proponents of probabilistic/Bayesian models of cognition championed by people like Nick Chater and Tom Griffiths, and heuristic models such as promoted by the Gigerenzer group in Berlin grounded in earlier work by Herb Simon, as well as Kahneman and Tversky.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; How can anyone be rational in a world where knowledge is limited, time is pressing, and deep thought is often an unattainable luxury? Traditional models of unbounded rationality and optimization in cognitive science, economics, and animal behavior have tended to view decision-makers as possessing supernatural powers of reason, limitless knowledge, and endless time. But understanding decisions in the real world requires a more psychologically plausible notion of bounded rationality. In Simple heuristics that make us smart (Gigerenzer et al. 1999), we explore fast and frugal heuristics – simple rules in the mind’s adaptive toolbox for making decisions with realistic mental resources. --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tversky, A., &amp;amp; Kahneman, D. (1985)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The framing of decisions and the psychology of choice. In &lt;em&gt;Behavioral Decision Making&lt;/em&gt; (pp. 25-41). Springer, Boston, MA.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The psychological principles that govern the perception of decision problems and the evaluation of probabilities and outcomes produce predictable shifts of preference when the same problem is framed in different ways. Reversals of preference are demonstrated in choices regarding monetary outcomes, both hypothetical and real, and in questions pertaining to the loss of human lives. The effects of frames on preferences are compared to the effects of perspectives on perceptual appearance. The dependence of preferences on the formulation of decision problems is a significant concern for the theory of rational choice.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Notworthy that, for this work, Kahneman was the only psychologist to ever win a Nobel Prize (winning in the Economics category in 2002).&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Kahneman, D., &amp;amp; Tversky, A. (1979).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Prospect theory: An analysis of decision under risk. &lt;em&gt;Econometrica&lt;/em&gt;, 47 263-291.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage discusses the concept of prospect theory and its application to decision-making under risk. It highlights the limitations and inconsistencies of expected utility theory and introduces prospect theory as an alternative model. The theory argues that choices involving risky prospects exhibit effects inconsistent with utility theory, such as underweighting probable outcomes and discarding shared components. Prospect theory assigns value to gains and losses rather than final assets, replaces probabilities with decision weights, and explains the tendency to overweight low probabilities. The passage presents various choice problems that violate the axioms of expected utility theory and discusses the observations that led to the development of prospect theory. Overall, the passage emphasizes the departure from rational decision-making and the need for an alternative theory to explain risk preferences in decision-making.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Busemeyer, J. R., Wang, Z., &amp;amp; Townsend, J. T. (2006).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Quantum dynamics of human decision-making. &lt;em&gt;Journal of Mathematical Psychology&lt;/em&gt;, 50(3), 220-241.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a comparison between a quantum dynamic model and a Markov model for decision-making processes. The quantum model describes the evolution of complex valued probability amplitudes over time, while the Markov model describes the evolution of real valued probabilities over time. The quantum model generates interference effects, which are not possible with Markov models. The authors derive choice probabilities and distribution of choice response time for the quantum model and compare them to the Markov model. The article discusses several examples and applications of both models, including signal detection and measuring confidence ratings. The authors also compare the fit of the models to response time distributions and highlight the potential of the quantum model in various fields. The article concludes by emphasizing the need for more empirical evidence to further develop the quantum dynamic model. The appendix provides additional information on linear algebra and the Markov model.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the brain an adaptive toolbox or a flexible generalist?&lt;/li&gt;
+&lt;li&gt;Are heuristic and probablistic frameworks really in tension?&lt;/li&gt;
+&lt;li&gt;What are some key heuristics for decision making?&lt;/li&gt;
+&lt;li&gt;What kind of theory is Prospect theory? Normative, descriptive or prescriptive?&lt;/li&gt;
+&lt;li&gt;Quantum Probability models&amp;hellip; what&amp;rsquo;s going on there?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Number</title>
+      <link>http://example.org/projects/number/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/number/</guid>
+      <description>&lt;p&gt;Of all the terrifying things humans have created, perhaps maths are a fairly tame, although remarkable, invention. While we clearly created maths, did we create numbers?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Feigenson, L., Dehaene, S., &amp;amp; Spelke, E. (2004)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Core systems of number. &lt;em&gt;Trends in cognitive sciences&lt;/em&gt;, 8(7), 307-314.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pica, P., Lemer, C., Izard, V., &amp;amp; Dehaene, S. (2004)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Exact and approximate arithmetic in an Amazonian indigene group. &lt;em&gt;Science&lt;/em&gt;, 306(5695), 499-503.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study investigated numerical cognition in Munduruku speakers, who have a limited lexicon of number words. The Munduruku can compare and add approximate numbers but struggle with exact arithmetic. The study contributes to understanding the relationship between language and arithmetic and the role of language in numerical cognition. It highlights that while the Munduruku lack number words beyond 5, they still possess a nonverbal system for approximate number. This suggests that exact arithmetic may require language for a precise representation and manipulation of numbers. The study also emphasizes the potential impact of language on numerical cognition and how cultural and linguistic factors can influence numeric representation and processes.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Frank, M. C., Everett, D. L., Fedorenko, E., &amp;amp; Gibson, E. (2008)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Number as a cognitive technology: Evidence from Pirahã language and cognition. &lt;em&gt;Cognition&lt;/em&gt;, 108(3), 819-824.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the relationship between language and our understanding of numbers, focusing on the Pirahã tribe&amp;rsquo;s language and numerical abilities. Previous research has shown that the Pirahã language lacks words for exact numbers, but the tribe can perform exact matching tasks with large quantities of objects accurately. This suggests that language for exact numbers is a cultural invention, not a universal linguistic feature. Number words serve as a cognitive technology for representing and keeping track of large sets accurately. The article discusses the role of language in understanding numbers and the theories proposing that language plays a causal role in the acquisition of exact numerical competence. The article provides evidence that language for exact numbers is not a linguistic universal but a cultural invention, with implications for understanding the relationship between language and cognition in numerical competence
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jara‐Ettinger, J., Piantadosi, S., Spelke, E. S., Levy, R., &amp;amp; Gibson, E. (2017)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Mastery of the logic of natural numbers is not the result of mastery of counting: Evidence from late counters. &lt;em&gt;Developmental Science&lt;/em&gt;, 20(6), e12459.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; TODO
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Piantadosi, ST., Tenenbaum, JB and Goodman, ND (2012)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Bootstrapping in a language of thought: A formal model of numerical concept learning. &lt;em&gt;Cognition&lt;/em&gt; 123.2: 199-217.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; TODO
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do we represent numbers?&lt;/li&gt;
+&lt;li&gt;Are numbers universal to animals?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>http://example.org/projects/attention/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/attention/</guid>
+      <description>&lt;p&gt;The world isn&amp;rsquo;t neatly carved into units aligned with our mental representations. Instead it&amp;rsquo;s presumably a &amp;ldquo;blooming, buzzing confusion.&amp;rdquo; Presumably the goal of attention is to filter this confusion such that we can better process signals in the environment.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Posner, M. I., Snyder, R. R. and Davidson, B. J. (1978)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Attention and Detection of Signals. &lt;em&gt;Journal of Experimental Psychology: General&lt;/em&gt;, 109(2), 160.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L. &amp;amp; Polosukhin, I. (2017).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Attention is all you need. &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt;, 30.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Depending on your background, this paper will either be tough to understand or extremely well known to you. It has been cited 86,000 times in the five years since its publication, so worthy of discussion either way. This is what attention now means in machine learning. Interesting to think about how it relates to the psychological notion.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses multiple studies on the relationship between attention and detection of visual signals. The researchers focus on the role of cues, spatial position, and expectancy in improving performance. They also explore the effects of eye movements and stimulus parameters on detection. The studies suggest that attention plays a crucial role in detecting signals and that knowledge of the location of a signal can improve processing efficiency. However, the results also indicate that attention may not improve detection of certain stimulus parameters, such as shape. The researchers discuss the impact of criterion shifts and position uncertainty on reaction times. Overall, the findings contribute to the understanding of the complex relationship between attention and the visual system, providing insights into how attention affects detection.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Treisman, A. and Gelade, G. (1980)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A feature integration theory of attention. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 12(1), 97-136.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article proposes a feature-integration theory of attention, which suggests that attention must be directed sequentially to each stimulus in a display when multiple features are needed to distinguish objects.  The study focuses on exploring the relationship between attention and feature integration in perception. It introduces diagnostic tests for determining the separability of dimensions and conducts experiments to support the theory of feature integration. The study also examines visual search, texture segregation, illusory conjunctions, identity and location perception, and interference from unattended stimuli. The research examines the effects of extended practice on feature unitization and the emergence of unitary detectors.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Henderson, J. M., (2020)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Meaning and attention in scenes. &lt;em&gt;Psychology of Learning and Motivation&lt;/em&gt;, 73, 95-117.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this chapter, the author discusses the role of meaning and attention in scenes. They introduce a new method called meaning maps, which represent the spatial distribution of meaning in scenes and compare it to image salience and attention. The author found that both meaning and salience predict attention, but meaning uniquely accounts for variance in attention. They discuss the implications of these findings and highlight the importance of understanding how the brain solves the computational problems of processing visual scenes.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Paschler, H. (1994)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Dual-task interference in simple tasks: Data and theory. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 116(2), 220.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article explores the concept of dual-task interference in simple tasks. It discusses different theoretical approaches for explaining dual-task interference, including capacity sharing, bottleneck models, and cross-talk models. The article also discusses the implications for higher mental processes and provides an overview of previous research on dual-task performance.&lt;/p&gt;
+&lt;p&gt;The article discusses the psychological refractory period (PRP) effect, which refers to a delay in response time to a second stimulus when presented shortly after the first stimulus. The article explores various explanations for this effect and highlights the need to analyze the time course of mental operations to understand interference mechanisms. The article discusses bottleneck models and how they can be tested using PRP experiments. It outlines principles for determining if there is a bottleneck in a particular stage of a task. The article suggests the existence of a bottleneck in response selection and certain cognitive operations.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is attention a spotlight, object-oriented, or perhaps something more?&lt;/li&gt;
+&lt;li&gt;How is attention allocated?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>http://example.org/projects/space/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/space/</guid>
+      <description>&lt;p&gt;Space. The final frontier. How do we move in space? Vectors, scalars, navigation? Is spacial reasoning a cognitive instinct or a cognitive technology?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pederson, E., Danziger, E., Wilkins, D., Levinson, S., Kita, S., &amp;amp; Senft, G. (1998)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Semantic typology and spatial conceptualization.  &lt;em&gt;Language&lt;/em&gt;, 74(3), 557-589.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Levinson, S., Meira, S., &amp;amp; The Language and Cognition Group. (2003)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&amp;lsquo;Natural concepts&amp;rsquo; in the spatial topological domain-Adpositional meanings in crosslinguistic perspective. &lt;em&gt;Language&lt;/em&gt;, 485-516.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In summary, the articles and content mentioned above explore various aspects of semantic typology, spatial adpositions, crosslinguistic comparisons, and the relationship between language, cognition, and spatial concepts. They discuss the challenges of categorizing and generalizing spatial adpositions, the role of methodology in comparative semantics research, the use of adpositions and locative nouns in different languages, and the exploration of adpositional groupings and semantic spaces. The articles also propose hypotheses, models, and statistical analyses to better understand the organization and universality of spatial concepts.
+&lt;/details&gt;  --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Li, P., &amp;amp; Gleitman, L. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Turning the tables: Language and spatial reasoning. &lt;em&gt;Cognition&lt;/em&gt;, 83(3), 265-294.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage summarizes various research papers and studies that explore the effects of language on spatial organization, reasoning, and cognition. The Whorf-Sapir linguistic relativity hypothesis, which suggests that language influences thought, is discussed. The studies reviewed investigate how different languages use different spatial systems and how cultural factors can impact spatial terminology and cognitive strategies. The presence and suitability of local landmark cues are found to play a role in problem-solving strategies. The passage also mentions research on spatial reasoning in animals and prelinguistic infants, highlighting their ability to adapt spatial reasoning based on the presence of landmark cues. The authors emphasize the relationship between language and thought but note that human thought is robust to variation in linguistic usage patterns.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Levinson, S. C., Kita, S., Haun, D. B., &amp;amp; Rasch, B. H. (2002)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Returning the tables: Language affects spatial reasoning. &lt;em&gt;Cognition&lt;/em&gt;, 84(2), 155-188.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study explores the relationship between language and spatial reasoning, arguing against a cross-cultural comparison that suggests language has a causal effect on non-linguistic thinking. The authors conduct experiments to support their hypothesis that language does not have a direct effect on cognition in the spatial domain.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the natural concepts for space?&lt;/li&gt;
+&lt;li&gt;Are spatial concepts a cognitive universal or driven by language?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>http://example.org/projects/memory/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/memory/</guid>
+      <description>&lt;p&gt;Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to the other themes of the course.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Miller, G. A. (1956).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;The magical number seven, plus or minus two: Some limits on our capacity for processing information. &lt;em&gt;Psychological Review&lt;/em&gt;, 63(2), 81.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Collins, A. M., &amp;amp; Quillian, M. R. (1969).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Retrieval time from semantic memory. &lt;em&gt;Journal of Verbal Learning and Verbal Behavior&lt;/em&gt;, 8(2), 240-247.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The researchers, Collins and Quillian, conducted a series of experiments to investigate how people retrieve and process information from semantic memory. They proposed two hypotheses, the &amp;ldquo;unsuccessful search&amp;rdquo; hypothesis and the &amp;ldquo;search and destroy&amp;rdquo; hypothesis, to explain how individuals make judgments about the truth or falsity of sentences.&lt;/p&gt;
+&lt;p&gt;The experiments yielded contradictory results to the researchers&amp;rsquo; initial hypothesis, leading them to develop the &amp;ldquo;search and destroy&amp;rdquo; hypothesis. This hypothesis suggests that individuals search for paths that connect the words in a sentence and reject the statement if they are unable to find a path that agrees with it.The researchers also discuss the issue of contradictions and emphasized that determining the falsity of a statement is not a simple process.&lt;/p&gt;
+
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Atkinson, R. C., &amp;amp; Shiffrin, R. M. (1971).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The control of short-term memory. &lt;em&gt;Scientific American&lt;/em&gt;, 225(2), 82-91.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the mechanisms and processes involved in short-term memory. The authors discuss the capacity, duration, and attentional control of short-term memory. They propose a model known as the modal model of memory, which explains how information is encoded and retrieved in short-term memory. This study provides valuable insights into the functioning of short-term memory and underlying cognitive processes. The research by Murdock, Tulving, and Glanzer focuses on the probability of recalling items in a list based on their position. They identify a primacy effect for the first few words and a recency effect for the last few words on the list, which is attributed to retrieval from short-term storage. They also propose a mathematical model to explain these effects, supported by experiments involving overt rehearsal during list presentation.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Collins, A. M., &amp;amp; Loftus, E. F. (1975).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A spreading-activation theory of semantic processing. &lt;em&gt;Psychological Review&lt;/em&gt;, 82(6), 407.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This paper presents a spreading-activation theory of human semantic processing that can account for recent experimental findings. The theory extends Quillian&amp;rsquo;s theory of semantic memory search and priming, addressing misconceptions and proposing additional assumptions. It is shown to explain production and categorization experiments and critiques the Smith et al. model for categorization judgments. The theory suggests that activation spreads through a network of links in semantic memory, with activation decreasing as it moves outward. Concepts are stored in a lexical network based on similarity, and activation depends on priming and connections between concepts. The theory also discusses strategies for evaluating semantic matching and the role of properties and superordinate connections. It is applied to various experiments, including those on reaction times, category-instance relationships, negative instances, typicality, and semantic relatedness. The theory emphasizes the importance of considering different configurations of knowledge in memory and aims to provide a more powerful and flexible approach to understanding human semantic processing.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Zhang, W., &amp;amp; Luck, S. J. (2008).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Discrete fixed-resolution representations in visual working memory. &lt;em&gt;Nature&lt;/em&gt;, 453(7192), 233-235.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Researchers have been debating whether working memory stores a fixed set of representations or a flexible pool of resources. This study aimed to resolve this controversy by conducting four experiments using a short-term recall paradigm.&lt;/p&gt;
+&lt;p&gt;The results of Experiment 1 showed that humans store high-resolution representations of some objects and no information about others, ruling out models with varying resolutions. Experiment 2 supported the idea of fixed-resolution representations, as precision did not decrease with set size. Experiment 3 found that resources were allocated to cued items, enhancing precision. Experiment 4 demonstrated that durable memory representations involve an all-or-none encoding process for simple objects.&lt;/p&gt;
+&lt;p&gt;Overall, the study supports the notion of a small number of fixed-resolution representations in working memory. These representations are not affected by set size and are created through an all-or-none encoding process. The experiments provide insights into the capacity and resolution of visual working memory.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the differences between short term and long term memory. How are they thought to be interrelated?&lt;/li&gt;
+&lt;li&gt;How does memory relate to the concepts, categories, learning and representation topics?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theory of Mind</title>
+      <link>http://example.org/projects/tom/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/tom/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“Here is how it works: first you decide to treat the object whose behavior is to be predicted as a rational agent; then you figure out what beliefs that agent ought to have, given its place in the world and its purpose. Then you figure out what desires it ought to have, on the same considerations, and finally you predict that this rational agent will act to further its goals in the light of its beliefs.”&lt;/em&gt; (Dennett, The Intentional Stance, 1996, p. 17).&lt;/p&gt;
+&lt;p&gt;This session will think about how people reason about others and how we might make machines that can do the same.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Dennett, D. C. (1981).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 3: True believers: The intentional strategy and why it works. In &lt;em&gt;Mind Design II&lt;/em&gt;&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This excerpt from &#34;Mind Design II&#34; explores belief attribution. The passage presents two opposing views on belief attribution: realism and interpretationism. The author argues that belief is an objective phenomenon that can be discerned through the intentional strategy, which treats the object of study as a rational agent with beliefs and desires. The passage emphasizes the effectiveness of the intentional strategy in predicting human behavior and addresses objections raised against it. It also discusses the relationship between an organization and its environment, the role of internal representations, and the reasons why the intentional strategy works. The author explores the belief that most beliefs must be true, the distinction between belief and opinion, and the challenges with language-of-thought models. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Some philosophy for a change. If you&amp;rsquo;ve not heard of Dennett, he is one of the most influential philosophers of cognitive science and has some interesting views on consciousness, free will and many other things (evolution, religion). He is also known for this &amp;lsquo;intentional stance&amp;rsquo; idea which helps clarify what it means to think about the private mental states of others.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jara-Ettinger, J., Gweon, H., Schulz, L. E., &amp;amp; Tenenbaum, J. B. (2016).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The naïve utility calculus: Computational principles underlying commonsense psychology. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 20(8), 589-604.&lt;/summary&gt;
+  &lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article proposes human social cognition is structured around a basic understanding of ourselves and others as intuitive utility maximizers: From a young age, humans implicitly assume that agents choose goals and actions to maximize the rewards they expect to obtain relative to the costs they expect to incur. It argues this ‘naïve utility calculus’ allows both children and adults observe the behavior of others and infer their beliefs and desires, their longer-term knowledge and preferences, and even their character: who is knowledgeable or competent, who is praiseworthy or blameworthy, who is friendly, indifferent, or an enemy. The article reviews studies providing support for the naïve utility calculus, and shows how it captures the rich social reasoning humans engage in from infancy. --&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fast forward 30 years from Mind Design, and we see the intentional stance ideas startign to be formalized in computational Bayesian framework, capturing how one can &lt;em&gt;invert&lt;/em&gt; behaviours to identify someone&amp;rsquo;s likely beliefs, values etc. Note also the connections with Development and Rationality topics.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Baker, C. L., Saxe, R., &amp;amp; Tenenbaum, J. B. (2009).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Action understanding as inverse planning. &lt;em&gt;Cognition&lt;/em&gt;, 113(3), 329-349.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a computational framework for modeling human action understanding using Bayesian inverse planning. The authors conducted psychophysical experiments to assess the accuracy of different inverse planning models in predicting human goal inferences. The results show evidence for a rational inference mechanism in human goal inference. The framework provides a formal approach to understanding rational action and goal inference in humans.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Here&amp;rsquo;s a more detailed example of this project modelling theory of mind style inferences as rational inverse planning. The food truck scenarios are proven popular and sprouted &amp;lsquo;spinoff&amp;rsquo; projects in the decade since this paper.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Heider, F., &amp;amp; Simmel, M. (1944).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;An experimental study of apparent behavior. &lt;em&gt;The American Journal of Psychology&lt;/em&gt;, 57(2), 243-259.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study aimed to understand how individuals perceive and interpret the behavior of others based on visual stimuli. The authors highlight the lack of experimental investigations in this area and emphasize the importance of studying the psychology of perception in relation to apparent behavior. The study involved showing participants a moving picture-film featuring geometric shapes moving in various directions and speeds. Participants were asked to describe the pictures and answer questions about them. The findings revealed that participants tended to interpret the movements as actions of animate beings, attributing personalities and motives to the shapes. The study demonstrates that humans have a tendency to perceive and attribute behavior to abstract shapes, suggesting a fundamental psychological process involved in perceiving others&amp;rsquo; behavior.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This very old article is really most famous for its stimuli (&lt;a href=&#34;https://www.youtube.com/watch?v=VTNmLt7QX8E%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=VTNmLt7QX8E)&lt;/a&gt;. One still tends to see this clip in the introduction to talks about social cognition (its not a bad idea to include it in your own presentation!). It is striking how irresistible it is to take ``the intentional stance&amp;rsquo;&amp;rsquo; a la Dennett, and assign motivations and personality traits to these simple geometric shapes being moved around on an overhead projector.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Baron-Cohen, S., Leslie, A. M., &amp;amp; Frith, U. (1985).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Does the autistic child have a “theory of mind”? &lt;em&gt;Cognition&lt;/em&gt;, 21(1), 37-46.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores whether autistic children lack a &amp;ldquo;theory of mind,&amp;rdquo; which refers to the ability to understand and predict the beliefs and behaviors of others. The study compares the performance of autistic children to that of normal children and children with Down&amp;rsquo;s syndrome using a puppet play paradigm. The research suggests that despite having a higher mental age than the comparison groups, autistic children fail to impute beliefs to others, indicating a deficit in meta-representational development specific to autism. This deficit contributes to the social impairment experienced by autistic children. The authors propose a new model of meta-representational development that suggests the capacity to form &amp;ldquo;second-order representations&amp;rdquo; is necessary for a theory of mind. Autistic children not only struggle with social ineptness but also exhibit a lack of pretend play.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Again this paper is most famous for its stimuli, the &amp;lsquo;Sally-Ann False Belief Task&amp;rsquo; which probes whether someone is capable of Theory of Mind reasoning. Who is Simon Baron-Cohen&amp;rsquo;s famous cousin?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., &amp; Saxe, R. (2018). | &lt;details&gt;
+  &lt;summary&gt;Development of the social brain from age three to twelve years. &lt;em&gt;Nature Communications&lt;/em&gt;, 9(1), 1-12.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This study examines the development of the &amp;ldquo;social brain&amp;rdquo; in children aged three to twelve. The researchers investigate how the neural networks involved in thinking about others&amp;rsquo; bodies and minds change as children develop. They found that these networks become increasingly distinct throughout childhood, and their functional maturity is related to the correlation between them. The milestone of passing false-belief tasks, often used to measure theory of mind development, does not align with the development of the social brain.&lt;/p&gt;
+&lt;p&gt;The study used fMRI to identify divisions of labor within the adult social brain and aimed to understand the neural changes that support the development of children&amp;rsquo;s understanding of others&amp;rsquo; minds. The results suggest that the regions involved in reasoning about others&amp;rsquo; minds and bodies are functionally distinct by the age of 3 and become increasingly specialized between the ages of 3-12. There was also a distinct neural response to others&amp;rsquo; minds and bodies even before children pass explicit false-belief tasks.&lt;/p&gt;
+&lt;p&gt;The study found that children who passed false-belief tasks and had more distinct responses across brain networks showed more adult-like responses to the movie in each network.&lt;/p&gt;
+
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you think of situations where people make the wrong theory of mind ascriptions (i.e. something with little or no mental life that we we assume does have it, and visa versa)?&lt;/li&gt;
+&lt;li&gt;What are some challenges for developing artificial agents with theory of mind&lt;/li&gt;
+&lt;li&gt;Is the Baron-Cohen view of autism still current?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analogy</title>
+      <link>http://example.org/projects/analogy/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/analogy/</guid>
+      <description>&lt;p&gt;Analogies help highlight similarities between different situations. Sometimes they just help us make pretty prose and literary points; however, they can also help us with problem solving. Is analogical reasoning responsible for creative solutions and &amp;ldquo;aha!&amp;rdquo; moments of insight?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gentner, D. (1983)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Structure-mapping: A theoretical framework for analogy. &lt;em&gt;Cognitive Science&lt;/em&gt;, 7(2), 155-170.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gick, M. L., &amp;amp; Holyoak, K. J. (1980)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Analogical problem solving. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 12(3), 306-355.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gentner, D., &amp;amp; Forbus, K. D. (2011).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Computational models of analogy. &lt;em&gt;Wiley Interdisciplinary Reviews: Cognitive Science&lt;/em&gt;, 2(3), 266-276.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Just a review of the proliferation of models of analogy since the structure mapping engine.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Medin, D. L., Goldstone, R. L., &amp;amp; Gentner, D. (1993)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Respects for similarity. &lt;em&gt;Psychological Review&lt;/em&gt;, 100(2), 254.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the concept of similarity and its importance in various psychological theories. The authors argue against the view that similarity is determined solely by perceptual processes and propose that it is influenced by the comparison process itself. They address criticisms of similarity and suggest that specific similarities between objects, known as &amp;ldquo;respects,&amp;rdquo; are crucial for understanding similarity. The passages also explore different models and measures of similarity, the role of context and experience in similarity judgments, and the influence of comparison processes on similarity assessments. They discuss the importance of alignment in determining similarities and differences between objects and the role of constraints and global constraint satisfaction in similarity judgments. The passages highlight the dynamic and context-dependent nature of similarity and the need for further research in this area.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How is analogical reasoning different from similarity based reasoning?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecology</title>
+      <link>http://example.org/projects/ecology/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/ecology/</guid>
+      <description>&lt;p&gt;Agents operate in an environment but most experiments construct sterile, artificial environments to exert epistemic control. So is looking at the environment worthwhile or can we understand cognition by looking at agents in fixed environments?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Anderson, J. R., &amp;amp; Schooler, L. J. (1991)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reflections of the environment in memory. &lt;em&gt;Psychological Science&lt;/em&gt;, 2(6), 396-408.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shepard, R. N. (1987)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Toward a universal law of generalization for psychological science. &lt;em&gt;Science&lt;/em&gt;, 237(4820), 1317-1323.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--&lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this article, the author proposes the concept of a universal law of generalization for psychological science. They argue that a psychological space can be established for any set of stimuli by determining metric distances between them. The probability of a response learned to one stimulus can then generalize to any other stimulus in an invariant and monotonic function of the distance between them.\n\nThe author highlights the importance of generalization in psychological science and discusses the challenges in quantifying and understanding it. They propose a novel approach to studying generalization by utilizing nonmetric multidimensional scaling to determine an invariant monotonic function that transforms generalization measures into interpretable numbers as distances in a psychological space.\n\nThe article also discusses the exponential decay nature of generalization probabilities and the empirical regularities observed in different experiments. The author suggests that these regularities can be explained by universal principles and evolutionary internalization that govern the behavior of all sentient organisms.\n\nIn conclusion, the author argues that a universal law of generalization in psychology is not only feasible but also essential. They provide empirical evidence, theoretical rationale, and the potential of nonmetric multidimensional scaling as a means to achieve this goal.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This paper often appears on lists of the N most important papers in cognitive science. It sits at the heart of core topics including categorization, concepts, development, induction and ecology.&lt;/p&gt;
+
+&lt;/details&gt;  --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Griffiths, T. L., &amp;amp; Tenenbaum, J. B. (2006).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Optimal predictions in everyday cognition. &lt;em&gt;Psychological Science&lt;/em&gt;, 17(9), 767-773.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This research article explores the optimality of human cognition in everyday situations and whether cognitive judgments align with optimal statistical principles. The study investigates various domains, including life spans, movie grosses, poem lengths, baking times, waiting times, and reigns of pharaohs. The results demonstrate that people&amp;rsquo;s predictions in most domains closely match the optimal Bayesian predictions based on empirical prior distributions.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This one could easily be in the Rationality&amp;quot; topic, but I put it here to highlight that effective inductive biases are effective because they reflect actual environmental statistics.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Feldman, J. (2012)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Symbolic representation of probabilistic worlds. &lt;em&gt;Cognition&lt;/em&gt;, 123(1), 61-83.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the use of symbolic representation in cognitive science, specifically in probabilistic worlds. The author introduces the concept of modality and argues that symbolic representation depends on the probabilistic structure of the environment. The paper proposes that modal environments, which consist of mixtures of narrow component distributions, can be represented symbolically with minimal information loss. The author also explores the relationship between discrete symbols and continuous variables, as well as the challenges of working with mixtures. The article discusses the implications of modality in the environment and how it affects an observer&amp;rsquo;s ability to represent and comprehend it. It concludes that environments with multiple modes or peaks can be effectively represented by symbols, while arbitrary environments cannot. The paper also examines the reduction of dimensions and how modal environments can be approximated by symbolic variables. Overall, the paper aims to show that symbolic representations in cognitive science are effective in capturing the probabilistic structure of modal worlds.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Harnad, S. (1990)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The symbol grounding problem. &lt;em&gt;Physica D: Nonlinear Phenomena&lt;/em&gt;, 42(1-3), 335-346.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This paper by Stevan Harnad, published in 1990, explores the symbol grounding problem and the role of connectionism in cognitive modeling. It suggests that symbols can be grounded in nonsymbolic representations, such as iconic and categorical representations, in order to give them meaning. The paper discusses the strengths and weaknesses of both connectionism and symbolism, and proposes a hybrid model that combines these approaches to address the limitations of each. It also discusses the transition from behaviorism to cognitivism in the modeling of the mind, and explores the defining characteristics of a symbol system. The paper concludes that addressing the symbol grounding problem is crucial for understanding complex cognitive capacities, and that a cooperative approach between connectionism and symbolism is necessary for a comprehensive cognitive model. Overall, the paper highlights the challenges and potential solutions in giving meaning to symbols within a formal symbol system, and discusses the importance of grounding symbols in nonsymbolic representations.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Barsalou, L. W. (1999) | &lt;details&gt;
+  &lt;summary&gt;Perceptual symbol systems. &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 22(4), 577-660.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the environment worth studying?&lt;/li&gt;
+&lt;li&gt;What is the target for the grounding problem?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expertise</title>
+      <link>http://example.org/projects/expertise/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/expertise/</guid>
+      <description>&lt;p&gt;Most of us specialize in something in our lives, perhaps even achieving expert status. Gladwell once claimed that 10,000 hours of practice in anything is enough to make anyone an expert. While this has been roundly &lt;a href=&#34;https://www.6seconds.org/2022/06/20/10000-hour-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debunked&lt;/a&gt;, large neural network models are now able to achieve expert or superhuman ability when given enough millions of training episodes for a single task.&lt;/p&gt;
+&lt;p&gt;On the other hand, these models struggle far more than people to &lt;em&gt;generalize&lt;/em&gt; this expertis to even slightly different tasks, or indeed to master more than one thing at all. What is expertise in cognition? This session will explore how we can model expertise, how expertise changes our how a cognizer approaches a task, and what trade-offs this can come with.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Chi, M. T. H., Feltovich, P., &amp;amp; Glaser, R. (1981).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Categorization and representation of physics problems by experts and novices. &lt;em&gt;Cognitive Science&lt;/em&gt;, 5, 121-152.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gobet, F., Lane, P. C., Croker, S., Cheng, P. C., Jones, G., Oliver, I., &amp;amp; Pine, J. M. (2001).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Chunking mechanisms in human learning. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(6), 236-243.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article explores the concept of &amp;ldquo;chunking,&amp;rdquo; which is the process of organizing information into meaningful units. It discusses how chunking is a crucial mechanism in human perception, learning, and cognition. The article distinguishes between goal-oriented chunking, which is deliberate and strategic, and perceptual chunking, which is automatic and continuous.&lt;/p&gt;
+&lt;p&gt;The article highlights the importance of computational models, specifically the EPAM/CHREST models, in understanding chunking mechanisms. These models provide a theoretical framework for studying chunking in various domains and allow for the prediction of chunks. The article provides examples of studies that demonstrate perceptual chunking in different contexts, such as grouping primitive stimuli and constructing perceptual chunks in memory. The article further discusses the applications of CHREST in various cognitive domains, including chess expertise and language acquisition. It emphasizes the potential of CHREST in addressing the limitations of early versions of EPAM.&lt;/p&gt;
+
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ericsson, K. A., Krampe, R. T., &amp;amp; Tesch-Römer, C. (1993).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The role of deliberate practice in the acquisition of expert performance. &lt;em&gt;Psychological Review&lt;/em&gt;, 100(3), 363.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article from 1993 discusses the role of deliberate practice in achieving expert performance in various domains. It challenges the notion of innate talent and emphasizes the importance of intense practice for at least 10 years. The article provides evidence on the potential and limits of environmental adaptation and learning.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the origin of the the idea popularised by Malcolm Gladwell that 10,000 hours in anything will make you an expert. Is this really exactly what Erisson et al found?&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., &amp;hellip; &amp;amp; Hassabis, D. (2016).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Mastering the game of Go with deep neural networks and tree search. &lt;em&gt;Nature&lt;/em&gt;, 529(7587), 484-489.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the use of deep neural networks and tree search in the development of the computer program AlphaGo, which plays the game of Go. The researchers trained policy and value networks using 30 million positions from the KGS Go server, achieving high accuracy in evaluating board positions and selecting moves. AlphaGo was able to defeat other Go programs and even a human professional player. The article also discusses the techniques and methods used in AlphaGo, including rollout policy, exploiting symmetries, and reinforcement learning.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What differences do we see in how experts and novices approach a problem?&lt;/li&gt;
+&lt;li&gt;What are some features of domain expertise?&lt;/li&gt;
+&lt;li&gt;In what ways might expertise trade off with flexibility?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biological Motion[CUT/MERGE?]</title>
+      <link>http://example.org/projects/motion/</link>
+      <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/motion/</guid>
+      <description>&lt;p&gt;Rockslides, storms and tidal waves: things in the natural world &lt;strong&gt;move&lt;/strong&gt;! But they move predictably under the laws of physics and the dangerous movements are fairly rare. Agents, on the other hand, move all the time and they are dangerous! How do we perceive agent-based motion?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Johansson, G. (1973)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Visual perception of biological motion and a model for its analysis. &lt;em&gt;Perception &amp;amp; Psychophysics&lt;/em&gt;, 14(2), 201-211.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Heider, F., &amp;amp; Simmel, M. (1944)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;An experimental study of apparent behavior. &lt;em&gt;The American Journal of Psychology&lt;/em&gt;, 57(2), 243-259.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gallese, V., Fadiga, L., Fogassi, L.,  and Rizzolatti, G. (1996)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Action  recognition  in  the  premotor  cortex. &lt;em&gt;Brain&lt;/em&gt;, 119(2), 593-609.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Hickok (1996)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans. &lt;em&gt;Journal of Cognitive Neuroscience&lt;/em&gt;, 21(7), 1229-1243.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do we privilege animate motion?&lt;/li&gt;
+&lt;li&gt;Is there a sound biological basis for this privilege?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events [CUT/MERGE?]</title>
+      <link>http://example.org/projects/events/</link>
+      <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/events/</guid>
+      <description>&lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fillmore, C. J. (1970)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;The grammar of hitting and breaking. &lt;em&gt;Readings in English Transformational Grammar&lt;/em&gt;, 120-133. (on Learn)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Zacks, J. M., &amp;amp; Tversky, B. (2001)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Event structure in perception and conception. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 127(1), 3.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Events: linguistic artifact or core knowledge?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

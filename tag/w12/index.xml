@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w12 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w12/</link>
+      <atom:link href="http://example.org/tag/w12/index.xml" rel="self" type="application/rss+xml" />
+    <description>w12</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w12</title>
+      <link>http://example.org/tag/w12/</link>
+    </image>
+    
+    <item>
+      <title>Biological Motion[CUT/MERGE?]</title>
+      <link>http://example.org/projects/motion/</link>
+      <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/motion/</guid>
+      <description>&lt;p&gt;Rockslides, storms and tidal waves: things in the natural world &lt;strong&gt;move&lt;/strong&gt;! But they move predictably under the laws of physics and the dangerous movements are fairly rare. Agents, on the other hand, move all the time and they are dangerous! How do we perceive agent-based motion?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Johansson, G. (1973)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Visual perception of biological motion and a model for its analysis. &lt;em&gt;Perception &amp;amp; Psychophysics&lt;/em&gt;, 14(2), 201-211.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Heider, F., &amp;amp; Simmel, M. (1944)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;An experimental study of apparent behavior. &lt;em&gt;The American Journal of Psychology&lt;/em&gt;, 57(2), 243-259.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gallese, V., Fadiga, L., Fogassi, L.,  and Rizzolatti, G. (1996)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Action  recognition  in  the  premotor  cortex. &lt;em&gt;Brain&lt;/em&gt;, 119(2), 593-609.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Hickok (1996)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans. &lt;em&gt;Journal of Cognitive Neuroscience&lt;/em&gt;, 21(7), 1229-1243.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do we privilege animate motion?&lt;/li&gt;
+&lt;li&gt;Is there a sound biological basis for this privilege?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events [CUT/MERGE?]</title>
+      <link>http://example.org/projects/events/</link>
+      <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/events/</guid>
+      <description>&lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fillmore, C. J. (1970)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;The grammar of hitting and breaking. &lt;em&gt;Readings in English Transformational Grammar&lt;/em&gt;, 120-133. (on Learn)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Zacks, J. M., &amp;amp; Tversky, B. (2001)&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Event structure in perception and conception. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 127(1), 3.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Events: linguistic artifact or core knowledge?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

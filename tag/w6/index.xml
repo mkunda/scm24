@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w6 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w6/</link>
+      <atom:link href="http://example.org/tag/w6/index.xml" rel="self" type="application/rss+xml" />
+    <description>w6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w6</title>
+      <link>http://example.org/tag/w6/</link>
+    </image>
+    
+    <item>
+      <title>Rationality</title>
+      <link>http://example.org/projects/rationality/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/rationality/</guid>
+      <description>&lt;p&gt;In popular culture, we often think of &lt;em&gt;rationality&lt;/em&gt; as in tension with &lt;em&gt;intuition&lt;/em&gt;. We see this in caricatures of hyper-rational agents like Spock in Star Trek. The probabilistic revolution in cognitive science has changed this notion. It is not rational to treat every task as logical deduction when the world itself is underdetermined and radically uncertain. This session will explore the notion of being rational in an uncertain world.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Oaksford, M., &amp;amp; Chater, N. (2001).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;The probabilistic approach to human reasoning. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(8), 349-357.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Marr, David (1982)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Chapter 1 of &lt;em&gt;Vision&lt;/em&gt;, MIT press (on Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This book is famous for its presentation of &amp;ldquo;Marr&amp;rsquo;s levels&amp;rdquo;: The three interrelated levels levels of analysis at which one can explain the behavoiur of any computational system (in Figure 1-4). This is an incredibly central idea in cognitive science that has had a major impact on comptuational modelling work ever since and well worth familiarizing yourself with if it isn&amp;rsquo;t already familiar to you.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gershman, S. J., Horvitz, E. J., &amp; Tenenbaum, J. B. (2015). | &lt;details&gt;
+  &lt;summary&gt;Computational rationality: A converging paradigm for intelligence in brains, minds, and machines. &lt;em&gt;Science&lt;/em&gt;, 349(6245), 273-278.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt;   | --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Simon, H. A. (1955).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;A behavioral model of rational choice. &lt;em&gt;The Quarterly Journal of Economics&lt;/em&gt;, 69(1), 99-118.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this research paper, Herbert A. Simon discusses the need to revise the traditional economic model of &amp;ldquo;economic man&amp;rdquo; as a rational decision-maker. He proposes a behavioral model of rational choice that takes into account the limited information and computational capacities of individuals. Simon emphasizes the importance of considering the decision-maker&amp;rsquo;s characteristics and the specific situation they are in when defining rational behavior. He explores variables that can be controlled and optimized for rational adaptation, as well as fixed variables that must be taken into account. The paper also discusses the application of this model to game theory, decision-making, and chess. Simon suggests simplifications and approximations that align with observed human behavior and addresses objections to simple pay-off functions in certain choice situations. He also highlights the importance of information gathering and refining the mapping of possible outcomes in decision-making. The paper concludes by discussing the implications of this behavioral model for understanding human decision-making in various contexts and the potential normative and descriptive value of this model.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lieder, F., &amp;amp; Griffiths, T. L. (2020).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. &lt;em&gt;Behavioral and brain sciences&lt;/em&gt;, 43, e1.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the concept of resource-rational analysis, a cognitive modeling paradigm that integrates rational principles with cognitive constraints to better understand and improve human cognition.&lt;/p&gt;
+&lt;p&gt;The article also discusses the challenges faced by research on human cognition and introduces the concept of bounded optimality as a theory for designing optimal programs for agents with limited resources. It proposes that resource-rational analysis provides a method for understanding how the human mind uses its limited cognitive resources. It suggests that cognitive biases may be a result of limited cognitive resources rather than irrationality, and understanding these limitations can lead to improved AI and a redefinition of cognitive biases.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What does it mean to be rational?&lt;/li&gt;
+&lt;li&gt;What does probability theory have to do with it?&lt;/li&gt;
+&lt;li&gt;What does it mean to be boundedly rational or resource rational?&lt;/li&gt;
+&lt;li&gt;Broadly speaking, are people any of the above?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development &amp; Learning</title>
+      <link>http://example.org/projects/development/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/development/</guid>
+      <description>&lt;p&gt;Compared to other animals, humans are flexible generalists. We are born  “half baked”, with relatively little in the way of initial skills or “core knowledge”. We spend decades growing and maturing and even once mature can continue to be able to learn new things. This session will explore a zoomed out perspective on how the human mind achieves this impressive flexibility. This touches on how the ability to learn and change shifts over our lifespans and the benefits and costs of childlike cognition.&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Spelke and Kinzler (2006)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Core knowledge. &lt;em&gt;Developmental Science&lt;/em&gt;, 1, 10.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gopnik, A., Griffiths, T. L., &amp;amp; Lucas, C. G. (2015).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;When younger learners can be better (or at least more open-minded) than older ones. &lt;em&gt;Current Directions in Psychological Science&lt;/em&gt;, 24(2), 87-92.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study discussed in this text explores the idea that younger learners may have an advantage over older learners when it comes to acquiring knowledge and learning abstract causal principles. The authors present evidence that younger children are better at inferring unlikely causal hypotheses from evidence and are more flexible in their thinking compared to adults.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Dayan, P., Griffiths, T. L., &amp;amp; Lagnado, D. A. (2017).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Formalizing Neurath’s ship: Approximate algorithms for online causal learning. &lt;em&gt;Psychological Review&lt;/em&gt;, 124(3), 301.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the use of approximate algorithms for online causal learning, using Neurath&amp;rsquo;s Ship as a formalization framework. The study proposes an algorithmic-level model of causal structure learning and examines the computational challenges and the need for approximations in causal learning. They use the concept of Neurath&amp;rsquo;s Ship to describe the incremental growth and evolution of beliefs about causal structure. Overall, the article presents various models and approaches to understanding human causal judgments and active learning. It discusses the use of approximations and the need for a general-purpose algorithm that can explain human success in learning complex causal models. The article also highlights the use of methods from machine learning to construct such an algorithm.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ullman, Tomer D. &amp;amp; Tenenbaum, Joshua B. (2020).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Bayesian Models of Conceptual Development: Learning as Building Models of the World. &lt;em&gt;Annual Review of Developmental Psychology&lt;/em&gt;, 2 (1).&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The use of Bayesian inference in model-building, including hierarchical Bayesian models and probabilistic generative programs, is discussed. The role of core knowledge in child learning and the relationship between intuitive theories and core knowledge are explored. Learning is described as a stochastic search process, with theory learning being a search for programs.&lt;/p&gt;
+&lt;p&gt;The text also discusses the theory theory and the child as scientist theory, as well as the use of Bayesian models and probabilistic programs to capture the structure of intuitive theories. The tensions between different methods of scientific experimentation are explored, and the same cognitive processes are noted to have different outcomes depending on the circumstances. The author suggests that a single program learning mechanism can be used to explain data but that its effectiveness depends on relevant data representations, input analyzers, and primitives available.&lt;/p&gt;
+&lt;p&gt;The text acknowledges the challenges of model-building in science and suggests that a comprehensive account of how humans develop models of the world would need to consider various factors such as individual differences, cultural influences, and computational constraints. The passage concludes by discussing ongoing work towards creating a computational model of cognitive development.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Jacobs, R. A., Jordan, M. I., &amp; Barto, A. G. (1991). | Task decomposition through competition in a modular connectionist architecture - the what and where vision tasks. Cognitive Science, 15, 219-250. | --&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Hogarth, R. M., &amp; Einhorn, H. J. (1992) | &lt;details&gt;
+  &lt;summary&gt;Order effects in belief updating: The belief-adjustment model. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 24(1), 1-55.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt;   | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In what sense is childhood like simulated annealing?&lt;/li&gt;
+&lt;li&gt;What is the “Child as scientist” theory of development?&lt;/li&gt;
+&lt;li&gt;What might order effects in learning tasks reveal about about learning?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

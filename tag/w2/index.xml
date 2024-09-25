@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w2 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w2/</link>
+      <atom:link href="http://example.org/tag/w2/index.xml" rel="self" type="application/rss+xml" />
+    <description>w2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w2</title>
+      <link>http://example.org/tag/w2/</link>
+    </image>
+    
+    <item>
+      <title>Representation</title>
+      <link>http://example.org/projects/representation/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/representation/</guid>
+      <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. But what &lt;em&gt;are&lt;/em&gt; representations?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Markman, A.B. (1998)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Knowledge Representation: Chapter One (on learn)&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pop out notes with a chalkboard item are guides from your instructors. This reading is on Learn.&lt;/p&gt;
+&lt;!-- 
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The chapter focuses on mental representations and their role in understanding cognitive processes. It explores different ways of thinking about mental entities and their representation, such as goals, beliefs, and concepts, as well as processes like retrieval and reasoning. The chapter also discusses the role of logical reasoning and its application in tasks such as the Wason selection task. Additionally, the chapter explores the concept of representation in relation to temperature. It discusses different analog and symbolic representations and their limitations. The chapter also examines the issue of intentionality and the interpretation of representations in cognitive systems. --&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tolman, E.C. (1948)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Cognitive maps in rats and men. &lt;em&gt;Psychological Review&lt;/em&gt;, 55(4), 189.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  This passage discusses the concept of cognitive maps in rats and humans. It explores different viewpoints on the formation and use of these mental maps. The passage describes experiments with rats in maze navigation and how their behavior changes over time as they learn to find food more efficiently. It also discusses different schools of thought in animal psychology, with some advocating for purely stimulus-response connections and others arguing for the involvement of strengthened connections. The passage highlights the importance of determining whether cognitive maps are narrow or comprehensive and discusses the implications of these maps for animal behavior. It also describes studies that support the theory of learning involving the development of cognitive maps. Overall, the passage provides insights into the understanding of cognitive mapping abilities in rats and its implications for human behavior.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;additional-readings&#34;&gt;Additional Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Larkin &amp;amp; Simon (1987)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Why a Diagram is (Sometimes) Worth 10,000 Words. &lt;em&gt;Cognitive Science&lt;/em&gt;, 11, 65-99.&lt;/summary&gt;
+  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Pop out notes with a robot icon are automatically generated paper summaries. So take them with a grain of salt!&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the advantages of using diagrammatic representations in problem-solving. Diagrams can convey implicit information more efficiently than sentential representations. The authors examine the computational efficiency and effectiveness of both types of representations in solving mathematical and physics problems. They argue that diagrams provide explicit information at a single location, enabling smoother problem-solving processes with reduced need for search and computation.&lt;/p&gt;
+
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; van Gelder, T. (1995)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;What Might Cognition Be, If Not Computation? &lt;em&gt;The Journal of Philosophy&lt;/em&gt;, 92(7), 345-381.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In this article, the author challenges the dominant computational view of cognition and explores alternative explanations for cognitive processes. The author discusses various research programs, such as connectionism, neurocomputational approaches, and ecological psychology, that offer different conceptions of cognition.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gardner, H. (1985) | &lt;details&gt;
+  &lt;summary&gt;The Mind&amp;rsquo;s New Science: A history of the cognitive revolution Chapter One (on Learn)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The passage introduces the book &amp;ldquo;The Mind&amp;rsquo;s New Science&amp;rdquo; and provides a brief overview of its content. The book focuses on current cognitive-scientific work and aims to explore fundamental philosophical questions. The author highlights the importance of resolving the computational paradox and meeting the cognitive challenge for the future of cognitive science. The book also discusses the historical background of cognitive science, dating back to classical times, and its emergence as a recognized pursuit in the last few decades.
+&lt;/details&gt;| --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What was the cognitive revolution?&lt;/li&gt;
+&lt;li&gt;What are representations?&lt;/li&gt;
+&lt;li&gt;What evidence do we have for cognitive representations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Processes</title>
+      <link>http://example.org/projects/processes/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/processes/</guid>
+      <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. What are processes?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Donders, F.C. (1898)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;On the speed of mental processes. &lt;em&gt;Acta psychologica&lt;/em&gt;, 30, 412-431.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Sternberg, S. (1966)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Memory Scanning: Mental Processes Revealed by Reaction-Time Experiments. &lt;em&gt;American Scientist&lt;/em&gt;, 57(4), 421-457.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article  explores the use of reaction-time experiments to understand the mental processes involved in memory scanning. The article discusses the stage theory of information processing and the subtraction method used to analyze reaction times. It explores the differences between simple exhaustive search and self-terminating search processes. The article also discusses the memory processes involved in storing and retrieving information.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Smith, P.L. &amp;amp; Ratcliff, R. (1995)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;An Introduction to the Diffusion Model of Decision Making. In &lt;em&gt;An introduction to model-based cognitive Neuroscience&lt;/em&gt; (pp. 49-70). Springer, New York, NY.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The diffusion model of decision making is introduced in this chapter. The model assumes that decisions are made by accumulating noisy evidence until reaching a response criterion. The time taken to reach criterion determines the decision time, while the response is determined by which criterion is reached first. The chapter describes the main features of the model, methods for obtaining response time predictions, fitting it to experimental data, and representing the fit graphically. The model is compared to other models and is the most widely applied to empirical data in psychology. The diffusion model focuses on two-alternative decision tasks and uses continuous-time versions of random walks to interpret evidence. The model predicts choice probabilities and response time distributions and has been extensively studied. It can account for speed-accuracy trade-offs and bias effects in decision making. The chapter also discusses the links between evidence accumulation and processes in psychology and neuroscience. Overall, the diffusion model provides a useful tool for analyzing decision-making data and understanding the cognitive processes involved.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Meyer, D.E. &amp;amp; Schvaneveldt, R. (1976)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Meaning, Memory Structure and Mental Processes: People&amp;rsquo;s rapid reactions to words help reveal how stored semantic information is retrieved. &lt;em&gt;Science&lt;/em&gt;, 192(4234), 27-33&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage provides an overview of a research study conducted by experimental psychologists on human learning and memory, with a focus on semantic information retrieval. The study used a reaction time method to measure word recognition and sentence comprehension. The researchers manipulated set relations and sizes of categories in sentences and found that reaction times were faster when the meanings of category names were closely related and slower when the sizes of the categories mentioned were more different from each other. The implications of these findings are discussed in relation to a model of human memory and the effects of category size on reaction times.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shiffrin and Schneider (1977)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Controlled and Automatic Human Information Processing: II. Perceptual Learning, Automatic Attending, and a General Theory. &lt;em&gt;Psychological Review&lt;/em&gt;, 84 (2)&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article presents a series of experiments that explore the two-process theory of human information processing, specifically focusing on automatic detection and controlled search. The experiments manipulate variables such as frame size, memory-set size, and mapping procedure to investigate the differences between these modes and their impact on attention. The results suggest that automatic attention can be learned in certain paradigms and that the presence of categories can improve performance in controlled search and facilitate the development of automatic detection.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How can we measure mental processes from behaviors?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

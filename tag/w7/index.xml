@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>w7 | Seminar in Cognitive Modelling</title>
+    <link>http://example.org/tag/w7/</link>
+      <atom:link href="http://example.org/tag/w7/index.xml" rel="self" type="application/rss+xml" />
+    <description>w7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
+    <image>
+      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <title>w7</title>
+      <link>http://example.org/tag/w7/</link>
+    </image>
+    
+    <item>
+      <title>Time</title>
+      <link>http://example.org/projects/time/</link>
+      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
+      <guid>http://example.org/projects/time/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“For all the points of the compass, there’s only one direction and time is its only measure.”&lt;/em&gt; (Stoppard, 1966)&lt;/p&gt;
+&lt;p&gt;Unlike most computational systems, humans experience and must respond to their environment through time. One of the most basic forms of human and animal learning is to associate things that happen close together. Everyday activities like speech, music, dance demand precise time control, while imagination, mental simulation, and memory (“mental time travel”) seem to require encoding of (and ability to regenerate events) in the right temporal sequence. What then is the role of time in the various cognitive processes and representations we have been discussing throughout this course?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Elman, J. L. (1990)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Finding structure in time. &lt;em&gt;Cognitive Science&lt;/em&gt;, 14, 179-211.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gong, T. &amp;amp; Bramley, N. R. (to appear)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Evidence from the future. &lt;em&gt;Journal of Experimental Psychology: General&lt;/em&gt;, &lt;a href=&#34;https://psyarxiv.com/f67nx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://psyarxiv.com/f67nx/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- &lt;details&gt;
+  &lt;summary&gt;&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses the representation of time in connectionist models. It proposes representing time implicitly through its effects on processing rather than explicitly. Recurrent links and hidden unit patterns allow networks to develop internal representations that incorporate both task and memory demands. Simulations show that these representations are context-dependent and can express generalizations across classes of items. The article highlights challenges in incorporating temporal aspects into parallel-processing models and discusses the drawbacks of using a spatial metaphor to represent time. It emphasizes the context-sensitivity of representations and the advantages of distributed representations over symbolic representations.
+&lt;/details&gt; --&gt;
+&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
+&lt;p&gt;The presenter should read and incorporate at least two of these:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Grice, G. R. (1948).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;The relation of secondary reinforcement to delayed reward in visual discrimination learning. &lt;em&gt;Journal of Experimental Psychology&lt;/em&gt;, 38(1), 1.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article, published in 1948, explores the relationship between reinforcement and delayed reward in visual discrimination learning. The study involved training albino rats to discriminate between black and white stimuli under different conditions of delay of reward. The results showed that the number of trials required to reach the learning criterion varied based on the duration of the delay, and the type of secondary reinforcement had an effect on the learning process.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Gerstenberg, T., Mayrhofer, R., &amp;amp; Lagnado, D. A. (2018).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Time in causal structure learning. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory, and Cognition&lt;/em&gt;, 44(12), 1880.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This study examines how timing information influences judgments of causal strength and structure induction. Four experiments were conducted, revealing the importance of event order and temporal intervals in learning causal relationships. A Bayesian model accurately predicted participants&amp;rsquo; judgments, highlighting the significance of time in understanding causal learning.  Participants&amp;rsquo; judgments were largely explained by event order, but there was some evidence of delay sensitivity and participants were able to distinguish between causal structures based on event timings alone.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Gong, T., Gerstenberg, T., Mayrhofer, R., &amp;amp; Bramley, N. R. (2023).&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
+  &lt;summary&gt;Active causal structure learning in continuous time. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 140, 101542.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The article discusses active causal structure learning in continuous time, exploring how people learn about causal structure and make intervention choices. The study finds that participants&amp;rsquo; accuracy depends on the informativeness and evidential complexity of the data they generate. Participants optimize their intervention choices to maximize expected information and minimize inferential complexity. The paper also discusses the computational challenges of active causal learning and the role of metacognitive awareness in successful learning. The findings provide insights into understanding how people learn about causal structure in dynamic environments.
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Haggard, P., Clark, S., &amp; Kalogeras, J. (2002). | &lt;details&gt;
+  &lt;summary&gt;Voluntary action and conscious awareness. &lt;em&gt;Nature Neuroscience&lt;/em&gt;, 5(4), 382-385.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores the relationship between voluntary action and conscious awareness. The authors argue that our experiences of voluntary action are the result of different stages of neural activity and that the central nervous system must bind these representations together to produce a coherent experience of our own actions. To study the links between representations of voluntary actions and their effects, the authors conducted experiments where subjects reported the perceived times of their actions and consequences. The results showed that voluntary actions and their effects are attracted together across time. Overall, the article provides evidence for a neural mechanism that binds together the perception of voluntary actions and their effects in conscious awareness. This intentional binding is crucial for our conscious experience of free will and our ability to perceive our actions as having an impact on the environment.
+&lt;/details&gt; | --&gt;
+&lt;!-- | 
+  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Engel, A. K., &amp; Singer, W. (2001). | &lt;details&gt;
+  &lt;summary&gt;Temporal binding and the neural correlates of sensory awareness. &lt;em&gt;Trends in Cognitive Sciences&lt;/em&gt;, 5(1), 16-25.&lt;/summary&gt;
+  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;
+&lt;/details&gt; | --&gt;
+&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How veridical is our perception of the time course of events and actions?&lt;/li&gt;
+&lt;li&gt;What problem do RNNs try to solve and how well do you think they achieve this?&lt;/li&gt;
+&lt;li&gt;How might time help us encode non-temporal things like relations?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
