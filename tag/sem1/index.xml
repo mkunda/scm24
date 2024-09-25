@@ -88,77 +88,6 @@
     </item>
     
     <item>
-      <title>Concepts</title>
-      <link>https://mkunda.github.io/scm24/projects/concepts/</link>
-      <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>https://mkunda.github.io/scm24/projects/concepts/</guid>
-      <description>&lt;p&gt;“&lt;em&gt;Concepts are the glue that holds our mental world together&lt;/em&gt;” (Murphy, 2002, p1).&lt;/p&gt;
-&lt;p&gt;This session will explore recent attempts to model the structure of human concepts. This will involve engaging with a historical debate and distinction between more &amp;ldquo;statistical&amp;rdquo; and more &amp;ldquo;rule-based&amp;rdquo; models and their implications but also thinking about how our concepts relate to how we categorize things but also how we think and generate new ideas.&lt;/p&gt;
-&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
-&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Murphy, G. L. (2002)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Chapter 2, &lt;em&gt;The big book of concepts&lt;/em&gt;. MIT Press (On Learn)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Goodman, N. D., Tenenbaum, J. B., Feldman, J., &amp;amp; Griffiths, T. L. (2008)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;A rational analysis of rule‐based concept learning. &lt;em&gt;Cognitive Science&lt;/em&gt;, 32(1), 108-154.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
-&lt;p&gt;The presenter should read and incorporate these.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lake, B. M., Salakhutdinov, R., &amp;amp; Tenenbaum, J. B. (2015).&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Human-level concept learning through probabilistic program induction. &lt;em&gt;Science&lt;/em&gt;, 350(6266), 1332-1338.&lt;/summary&gt;
-  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;The article highlights two aspects of human conceptual knowledge that have eluded machine systems: the ability to learn new concepts from just one or a few examples, and the ability to learn rich and flexible representations. The authors propose the Bayesian Program Learning (BPL) framework, which can learn a wide range of visual concepts from just a single example and generalize in ways that are similar to human behavior. BPL represents concepts as stochastic programs and utilizes compositionality, causality, and learning to learn as key ideas.&lt;/p&gt;
-&lt;p&gt;The authors present a computational model that captures these human learning abilities specifically for simple visual concepts, using handwritten characters from different alphabets as examples. The model represents concepts as simple programs that best explain observed examples, using a Bayesian criterion. In a one-shot classification task, the model achieves human-level performance and outperforms recent deep learning approaches. The model&amp;rsquo;s creative generalization abilities are tested through several &amp;ldquo;visual Turing tests,&amp;rdquo; which show that in many cases, the model&amp;rsquo;s behavior is indistinguishable from human behavior.&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This is the first really modern modelling paper on the reading list. It showcases the power of hierarchical Bayesian program induction as a theory of conceptual structure. In being based in symbolic rules/programs, it is a successor to Goodman et al (2008), but  the domain is much more naturalistic and the computational cost of fitting this model is far higher. Note also the differences in writing style compared to the classic papers, e.g. compressed, concise, visual, snappy but key details in an appendix.&lt;/p&gt;
-
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Shepard, R. N., Hovland, C. I. and Jenkins, H. M. (1961)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Learning and Memorization of Classifications. &lt;em&gt;Psychological Monographs: General and Applied&lt;/em&gt;, 75(13), 1.&lt;/summary&gt;
-  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study includes a series of experiments that investigate the learning and memorization of different types of classifications. The results show that the structure of the classification and the complexity of the rules involved affect the difficulty of the task. Overall, the study provides insights into the factors that determine the difficulty of learning and remembering classifications. It highlights the importance of considering the structure of the classification, the complexity of the rules, and the use of different stimuli in understanding the learning and memorization process.&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The experiments in this paper are long and complicated but what makes it famous is the way Shepard visualizes concepts/classification rules of different complexity (i.e. Figures 2 and 3). These visualizations and the logic behind them are widely used in categorization research and teaching today.&lt;/p&gt;
-
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;How do concepts relate to categories?&lt;/li&gt;
-&lt;li&gt;What about to previous topics? e.g. Are concepts representations?&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Categorization</title>
       <link>https://mkunda.github.io/scm24/projects/categorization/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
@@ -260,93 +189,19 @@
       <link>https://mkunda.github.io/scm24/projects/objects/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
       <guid>https://mkunda.github.io/scm24/projects/objects/</guid>
-      <description>&lt;p&gt;Light hits our eyes  and somehow we perceive 3 dimensional &amp;lsquo;objects&amp;rsquo;.
+      <description>&lt;h2 id=&#34;objects&#34;&gt;Objects&lt;/h2&gt;
+&lt;p&gt;Light hits our eyes  and somehow we perceive 3 dimensional &amp;lsquo;objects&amp;rsquo;.
 What is an object?
 In representational systems like programming languages, objects are core structure.
 Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&gt;
 &lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
+&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;
+&lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Spelke, E.S. (1990)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Principles of object perception. &lt;em&gt;Cognitive Science&lt;/em&gt;, 14(1), 29-56.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Zacks, J. M., &amp;amp; Tversky, B. (2001)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Event structure in perception and conception. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 127(1), 3.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- &lt;details&gt;
-  &lt;summary&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the importance of event structure in perception, comprehension, memory, planning, and action. It suggests that events, like objects, have categories and parts, and understanding these relationships can enhance cognitive processes. The article explores the hierarchical nature of events and how they can be categorized and segmented based on different factors. It also discusses the role of language in event perception and the influence of goals and causal interactions on event recognition. The text highlights the similarities and differences between objects and events and emphasizes the importance of structured representations in understanding and remembering events.&lt;/p&gt;
-&lt;p&gt;The article also discusses the role of event schemata and goals in comprehension and memory recall. It further explores how event perception and cognition involve the interaction of different information sources and the limitations of hierarchical partonomic hierarchies. The article concludes with a list of references related to event perception, cognition, and memory.&lt;/p&gt;
-
-&lt;/details&gt; --&gt;
-&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
-&lt;p&gt;The presenter should read and incorporate at least two of these.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Fillmore, C. J. (1970)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;The grammar of hitting and breaking. &lt;em&gt;Readings in English Transformational Grammar&lt;/em&gt;, 120-133. (on Learn)&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This research explores the distinction between implicit and explicit knowledge of language, focusing on the verbs &amp;ldquo;hit&amp;rdquo; and &amp;ldquo;break&amp;rdquo; in English. Fillmore argues that while speakers may struggle to explain the usage and meaning of these words, they rarely make mistakes when using them. He emphasizes the need for linguistic observations to be incorporated into an empirical theory of linguistic structure. It explores the ambiguity of sentences and the role of body-part nouns in indicating places rather than objects.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Lettvin, J. Y. et al., (1957)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;What the frog&amp;rsquo;s eye tells the frog&amp;rsquo;s brain. &lt;em&gt;Proceedings of the IRE&lt;/em&gt;, 47(11), 1940-1951.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  This paper presents research on the activity of single fibers in the optic nerve of frogs. The authors investigate what kind of stimulus causes the largest activity in one nerve fiber and what aspect of that stimulus is most excitatory. They find that the pattern of local variation in intensity, rather than the light intensity itself, is the most excitatory factor for the frog&amp;rsquo;s eye. The study provides a detailed analysis of the anatomy, physiology, and behavior of the frog&amp;rsquo;s visual apparatus. The research emphasizes that the frog&amp;rsquo;s eye informs the brain about the visual image in terms of local pattern, independent of average illumination. The findings suggest that the frog&amp;rsquo;s visual system is highly organized and interpreted, and not simply transmitting an accurate copy of the distribution of light.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Biederman, I. (1987)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Recognition-by-Components: A Theory of Human Image Understanding. &lt;em&gt;Psychological Review&lt;/em&gt;, 94(2), 115.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses the theory of recognition-by-components (RBC) in human image understanding. The theory proposes that objects are perceived by segmenting the input image into simple geometric components called geons. These geons can be derived from the contrasts of certain properties of edges in the image. The theory suggests that object recognition is robust and invariant to changes in viewing position and image quality. Experimental findings support the theory.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Scholl, Brian J. (2007)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Object persistence in philosophy and psychology. &lt;em&gt;Mind &amp;amp; Language&lt;/em&gt;, 22(5), 563-591.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  This article explores the concept of object persistence in both philosophy and psychology. It suggests that there are similarities between these two fields, indicating that psychological mechanisms may underlie the intuitions about persistence that fuel metaphysical theories. The goal is to bridge the gap between cognitive science and metaphysics and potentially contribute to philosophical progress. The article discusses themes such as spatiotemporal continuity, persistence through property change, and cohesion, and how these themes have led to empirical discoveries in psychological research. It also explores various scenarios and challenges our intuitions about the identity and persistence of objects over time. The article highlights the importance of cohesion as a principle for object persistence and discusses the role of intuitions and psychological mechanisms in influencing our judgments and interpretations. It also considers the potential for psychology to contribute to philosophy in understanding the origins of metaphysical intuitions.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- | 
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Cavanaugh, P. (2011) | &lt;details&gt;
-  &lt;summary&gt;Visual cognition. &lt;em&gt;Vision Research&lt;/em&gt;, 51(13), 1538-1551.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article discusses various aspects of visual cognition, including visual executive functions, attention, object recognition, motion perception, and the role of shadows in perception. The authors highlight the need for further research in these areas to better understand the mechanisms underlying visual cognition and its interaction with other cognitive processes.
-&lt;/details&gt;  | --&gt;
-&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;How do we represent object information?&lt;/li&gt;
-&lt;li&gt;What&amp;rsquo;s missing from these representations?&lt;/li&gt;
-&lt;li&gt;Events: linguistic artifact or core knowledge?&lt;/li&gt;
+&lt;li&gt;Spelke, E.S. (1990) Principles of object perception. &lt;em&gt;Cognitive Science&lt;/em&gt;, 14(1), 29-56.&lt;/li&gt;
+&lt;li&gt;Zacks, J. M., &amp;amp; Tversky, B. (2001) Event structure in perception and conception. &lt;em&gt;Psychological Bulletin&lt;/em&gt;, 127(1), 3.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
