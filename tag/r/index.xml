@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/r/</link>
-      <atom:link href="http://example.org/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/r/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>r</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>r</title>
-      <link>http://example.org/tag/r/</link>
+      <link>https://mkunda.github.io/scm24/tag/r/</link>
     </image>
     
     <item>
       <title>Processes</title>
-      <link>http://example.org/projects/processes/</link>
+      <link>https://mkunda.github.io/scm24/projects/processes/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/processes/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/processes/</guid>
       <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. What are processes?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Categorization</title>
-      <link>http://example.org/projects/categorization/</link>
+      <link>https://mkunda.github.io/scm24/projects/categorization/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/categorization/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/categorization/</guid>
       <description>&lt;p&gt;Plato famously characterised humans as seeking to ‘carve nature at its joints’ (Phaedrus). The rough idea is that we find ways to classify and group the things in our experience in ways that somehow respect their natural clustering and separation.&lt;/p&gt;
 &lt;p&gt;This topic looks at cognitive models that have tried to capture how and why we partition the world in the ways we do.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -186,9 +186,9 @@
     
     <item>
       <title>Inductive Reasoning</title>
-      <link>http://example.org/projects/induction/</link>
+      <link>https://mkunda.github.io/scm24/projects/induction/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/induction/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/induction/</guid>
       <description>&lt;p&gt;While Sherlock&amp;rsquo;s over there blogging &lt;em&gt;The Science of Deduction&lt;/em&gt;, I&amp;rsquo;d argue most of human reasoning is &lt;strong&gt;inductive&lt;/strong&gt;. We see lot&amp;rsquo;s of examples (e.g., 10 million white swans) and then try to explain them (swans are white). Checks out, right?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -262,9 +262,9 @@
     
     <item>
       <title>Physical Reasoning</title>
-      <link>http://example.org/projects/physics/</link>
+      <link>https://mkunda.github.io/scm24/projects/physics/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/physics/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/physics/</guid>
       <description>&lt;p&gt;From pouring a cup of coffee to playing frogger through the streets, physical reasoning is ubiquitous in human behavior. Arguably these goals have been stable throughout the evolution of our species, so are we optimal physical reasoners?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -340,9 +340,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Development &amp; Learning</title>
-      <link>http://example.org/projects/development/</link>
+      <link>https://mkunda.github.io/scm24/projects/development/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/development/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/development/</guid>
       <description>&lt;p&gt;Compared to other animals, humans are flexible generalists. We are born  “half baked”, with relatively little in the way of initial skills or “core knowledge”. We spend decades growing and maturing and even once mature can continue to be able to learn new things. This session will explore a zoomed out perspective on how the human mind achieves this impressive flexibility. This touches on how the ability to learn and change shifts over our lifespans and the benefits and costs of childlike cognition.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -419,9 +419,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Decision Making</title>
-      <link>http://example.org/projects/decision/</link>
+      <link>https://mkunda.github.io/scm24/projects/decision/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/decision/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/decision/</guid>
       <description>&lt;p&gt;Humans are said to be ‘predictably irrational’, departing from the ways that economists would like to think they will behave. Businesses, policy makers, marketers and consultants and increasingly economists would all like to understand how and why people make the decisions they do. The judgment and decision making topic focuses on these questions and has produced a number influential models capturing how people choose between options, often emphasizing heuristics (or computational shortcuts) we use to make choices with limited time or computational resources and trying to explicate when and why they work.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -496,9 +496,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Attention</title>
-      <link>http://example.org/projects/attention/</link>
+      <link>https://mkunda.github.io/scm24/projects/attention/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/attention/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/attention/</guid>
       <description>&lt;p&gt;The world isn&amp;rsquo;t neatly carved into units aligned with our mental representations. Instead it&amp;rsquo;s presumably a &amp;ldquo;blooming, buzzing confusion.&amp;rdquo; Presumably the goal of attention is to filter this confusion such that we can better process signals in the environment.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -577,9 +577,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Memory</title>
-      <link>http://example.org/projects/memory/</link>
+      <link>https://mkunda.github.io/scm24/projects/memory/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/memory/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/memory/</guid>
       <description>&lt;p&gt;Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to the other themes of the course.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -658,9 +658,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Analogy</title>
-      <link>http://example.org/projects/analogy/</link>
+      <link>https://mkunda.github.io/scm24/projects/analogy/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/analogy/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/analogy/</guid>
       <description>&lt;p&gt;Analogies help highlight similarities between different situations. Sometimes they just help us make pretty prose and literary points; however, they can also help us with problem solving. Is analogical reasoning responsible for creative solutions and &amp;ldquo;aha!&amp;rdquo; moments of insight?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -723,9 +723,9 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     
     <item>
       <title>Expertise</title>
-      <link>http://example.org/projects/expertise/</link>
+      <link>https://mkunda.github.io/scm24/projects/expertise/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/expertise/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/expertise/</guid>
       <description>&lt;p&gt;Most of us specialize in something in our lives, perhaps even achieving expert status. Gladwell once claimed that 10,000 hours of practice in anything is enough to make anyone an expert. While this has been roundly &lt;a href=&#34;https://www.6seconds.org/2022/06/20/10000-hour-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debunked&lt;/a&gt;, large neural network models are now able to achieve expert or superhuman ability when given enough millions of training episodes for a single task.&lt;/p&gt;
 &lt;p&gt;On the other hand, these models struggle far more than people to &lt;em&gt;generalize&lt;/em&gt; this expertis to even slightly different tasks, or indeed to master more than one thing at all. What is expertise in cognition? This session will explore how we can model expertise, how expertise changes our how a cognizer approaches a task, and what trade-offs this can come with.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;

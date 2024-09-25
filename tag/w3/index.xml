@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w3 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w3/</link>
-      <atom:link href="http://example.org/tag/w3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w3/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w3/index.xml" rel="self" type="application/rss+xml" />
     <description>w3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w3</title>
-      <link>http://example.org/tag/w3/</link>
+      <link>https://mkunda.github.io/scm24/tag/w3/</link>
     </image>
     
     <item>
       <title>Concepts</title>
-      <link>http://example.org/projects/concepts/</link>
+      <link>https://mkunda.github.io/scm24/projects/concepts/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/concepts/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/concepts/</guid>
       <description>&lt;p&gt;“&lt;em&gt;Concepts are the glue that holds our mental world together&lt;/em&gt;” (Murphy, 2002, p1).&lt;/p&gt;
 &lt;p&gt;This session will explore recent attempts to model the structure of human concepts. This will involve engaging with a historical debate and distinction between more &amp;ldquo;statistical&amp;rdquo; and more &amp;ldquo;rule-based&amp;rdquo; models and their implications but also thinking about how our concepts relate to how we categorize things but also how we think and generate new ideas.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Categorization</title>
-      <link>http://example.org/projects/categorization/</link>
+      <link>https://mkunda.github.io/scm24/projects/categorization/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/categorization/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/categorization/</guid>
       <description>&lt;p&gt;Plato famously characterised humans as seeking to ‘carve nature at its joints’ (Phaedrus). The rough idea is that we find ways to classify and group the things in our experience in ways that somehow respect their natural clustering and separation.&lt;/p&gt;
 &lt;p&gt;This topic looks at cognitive models that have tried to capture how and why we partition the world in the ways we do.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;

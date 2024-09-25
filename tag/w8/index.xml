@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w8 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w8/</link>
-      <atom:link href="http://example.org/tag/w8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w8/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w8/index.xml" rel="self" type="application/rss+xml" />
     <description>w8</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w8</title>
-      <link>http://example.org/tag/w8/</link>
+      <link>https://mkunda.github.io/scm24/tag/w8/</link>
     </image>
     
     <item>
       <title>Decision Making</title>
-      <link>http://example.org/projects/decision/</link>
+      <link>https://mkunda.github.io/scm24/projects/decision/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/decision/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/decision/</guid>
       <description>&lt;p&gt;Humans are said to be ‘predictably irrational’, departing from the ways that economists would like to think they will behave. Businesses, policy makers, marketers and consultants and increasingly economists would all like to understand how and why people make the decisions they do. The judgment and decision making topic focuses on these questions and has produced a number influential models capturing how people choose between options, often emphasizing heuristics (or computational shortcuts) we use to make choices with limited time or computational resources and trying to explicate when and why they work.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>Number</title>
-      <link>http://example.org/projects/number/</link>
+      <link>https://mkunda.github.io/scm24/projects/number/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/number/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/number/</guid>
       <description>&lt;p&gt;Of all the terrifying things humans have created, perhaps maths are a fairly tame, although remarkable, invention. While we clearly created maths, did we create numbers?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -166,9 +166,9 @@
     
     <item>
       <title>Attention</title>
-      <link>http://example.org/projects/attention/</link>
+      <link>https://mkunda.github.io/scm24/projects/attention/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/attention/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/attention/</guid>
       <description>&lt;p&gt;The world isn&amp;rsquo;t neatly carved into units aligned with our mental representations. Instead it&amp;rsquo;s presumably a &amp;ldquo;blooming, buzzing confusion.&amp;rdquo; Presumably the goal of attention is to filter this confusion such that we can better process signals in the environment.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;

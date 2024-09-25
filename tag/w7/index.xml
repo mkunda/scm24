@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w7 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w7/</link>
-      <atom:link href="http://example.org/tag/w7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w7/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w7/index.xml" rel="self" type="application/rss+xml" />
     <description>w7</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w7</title>
-      <link>http://example.org/tag/w7/</link>
+      <link>https://mkunda.github.io/scm24/tag/w7/</link>
     </image>
     
     <item>
       <title>Time</title>
-      <link>http://example.org/projects/time/</link>
+      <link>https://mkunda.github.io/scm24/projects/time/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/time/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/time/</guid>
       <description>&lt;p&gt;&lt;em&gt;“For all the points of the compass, there’s only one direction and time is its only measure.”&lt;/em&gt; (Stoppard, 1966)&lt;/p&gt;
 &lt;p&gt;Unlike most computational systems, humans experience and must respond to their environment through time. One of the most basic forms of human and animal learning is to associate things that happen close together. Everyday activities like speech, music, dance demand precise time control, while imagination, mental simulation, and memory (“mental time travel”) seem to require encoding of (and ability to regenerate events) in the right temporal sequence. What then is the role of time in the various cognitive processes and representations we have been discussing throughout this course?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;

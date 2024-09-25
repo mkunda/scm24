@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w2 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w2/</link>
-      <atom:link href="http://example.org/tag/w2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w2/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w2/index.xml" rel="self" type="application/rss+xml" />
     <description>w2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w2</title>
-      <link>http://example.org/tag/w2/</link>
+      <link>https://mkunda.github.io/scm24/tag/w2/</link>
     </image>
     
     <item>
       <title>Representation</title>
-      <link>http://example.org/projects/representation/</link>
+      <link>https://mkunda.github.io/scm24/projects/representation/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/representation/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/representation/</guid>
       <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. But what &lt;em&gt;are&lt;/em&gt; representations?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Processes</title>
-      <link>http://example.org/projects/processes/</link>
+      <link>https://mkunda.github.io/scm24/projects/processes/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/processes/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/processes/</guid>
       <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. What are processes?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;

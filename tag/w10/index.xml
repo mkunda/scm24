@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w10 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w10/</link>
-      <atom:link href="http://example.org/tag/w10/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w10/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w10/index.xml" rel="self" type="application/rss+xml" />
     <description>w10</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w10</title>
-      <link>http://example.org/tag/w10/</link>
+      <link>https://mkunda.github.io/scm24/tag/w10/</link>
     </image>
     
     <item>
       <title>Theory of Mind</title>
-      <link>http://example.org/projects/tom/</link>
+      <link>https://mkunda.github.io/scm24/projects/tom/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/tom/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/tom/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Here is how it works: first you decide to treat the object whose behavior is to be predicted as a rational agent; then you figure out what beliefs that agent ought to have, given its place in the world and its purpose. Then you figure out what desires it ought to have, on the same considerations, and finally you predict that this rational agent will act to further its goals in the light of its beliefs.”&lt;/em&gt; (Dennett, The Intentional Stance, 1996, p. 17).&lt;/p&gt;
 &lt;p&gt;This session will think about how people reason about others and how we might make machines that can do the same.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Analogy</title>
-      <link>http://example.org/projects/analogy/</link>
+      <link>https://mkunda.github.io/scm24/projects/analogy/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/analogy/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/analogy/</guid>
       <description>&lt;p&gt;Analogies help highlight similarities between different situations. Sometimes they just help us make pretty prose and literary points; however, they can also help us with problem solving. Is analogical reasoning responsible for creative solutions and &amp;ldquo;aha!&amp;rdquo; moments of insight?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w6 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w6/</link>
-      <atom:link href="http://example.org/tag/w6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w6/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w6/index.xml" rel="self" type="application/rss+xml" />
     <description>w6</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w6</title>
-      <link>http://example.org/tag/w6/</link>
+      <link>https://mkunda.github.io/scm24/tag/w6/</link>
     </image>
     
     <item>
       <title>Rationality</title>
-      <link>http://example.org/projects/rationality/</link>
+      <link>https://mkunda.github.io/scm24/projects/rationality/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/rationality/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/rationality/</guid>
       <description>&lt;p&gt;In popular culture, we often think of &lt;em&gt;rationality&lt;/em&gt; as in tension with &lt;em&gt;intuition&lt;/em&gt;. We see this in caricatures of hyper-rational agents like Spock in Star Trek. The probabilistic revolution in cognitive science has changed this notion. It is not rational to treat every task as logical deduction when the world itself is underdetermined and radically uncertain. This session will explore the notion of being rational in an uncertain world.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Development &amp; Learning</title>
-      <link>http://example.org/projects/development/</link>
+      <link>https://mkunda.github.io/scm24/projects/development/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/development/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/development/</guid>
       <description>&lt;p&gt;Compared to other animals, humans are flexible generalists. We are born  “half baked”, with relatively little in the way of initial skills or “core knowledge”. We spend decades growing and maturing and even once mature can continue to be able to learn new things. This session will explore a zoomed out perspective on how the human mind achieves this impressive flexibility. This touches on how the ability to learn and change shifts over our lifespans and the benefits and costs of childlike cognition.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;

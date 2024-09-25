@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tags/</link>
-      <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tags/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>http://example.org/tags/</link>
+      <link>https://mkunda.github.io/scm24/tags/</link>
     </image>
     
   </channel>

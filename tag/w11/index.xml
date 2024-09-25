@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w11 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w11/</link>
-      <atom:link href="http://example.org/tag/w11/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w11/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w11/index.xml" rel="self" type="application/rss+xml" />
     <description>w11</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w11</title>
-      <link>http://example.org/tag/w11/</link>
+      <link>https://mkunda.github.io/scm24/tag/w11/</link>
     </image>
     
     <item>
       <title>Ecology</title>
-      <link>http://example.org/projects/ecology/</link>
+      <link>https://mkunda.github.io/scm24/projects/ecology/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/ecology/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/ecology/</guid>
       <description>&lt;p&gt;Agents operate in an environment but most experiments construct sterile, artificial environments to exert epistemic control. So is looking at the environment worthwhile or can we understand cognition by looking at agents in fixed environments?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Expertise</title>
-      <link>http://example.org/projects/expertise/</link>
+      <link>https://mkunda.github.io/scm24/projects/expertise/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/expertise/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/expertise/</guid>
       <description>&lt;p&gt;Most of us specialize in something in our lives, perhaps even achieving expert status. Gladwell once claimed that 10,000 hours of practice in anything is enough to make anyone an expert. While this has been roundly &lt;a href=&#34;https://www.6seconds.org/2022/06/20/10000-hour-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;debunked&lt;/a&gt;, large neural network models are now able to achieve expert or superhuman ability when given enough millions of training episodes for a single task.&lt;/p&gt;
 &lt;p&gt;On the other hand, these models struggle far more than people to &lt;em&gt;generalize&lt;/em&gt; this expertis to even slightly different tasks, or indeed to master more than one thing at all. What is expertise in cognition? This session will explore how we can model expertise, how expertise changes our how a cognizer approaches a task, and what trade-offs this can come with.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;

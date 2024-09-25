@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nb | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/nb/</link>
-      <atom:link href="http://example.org/tag/nb/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/nb/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/nb/index.xml" rel="self" type="application/rss+xml" />
     <description>nb</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>nb</title>
-      <link>http://example.org/tag/nb/</link>
+      <link>https://mkunda.github.io/scm24/tag/nb/</link>
     </image>
     
     <item>
       <title>Representation</title>
-      <link>http://example.org/projects/representation/</link>
+      <link>https://mkunda.github.io/scm24/projects/representation/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/representation/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/representation/</guid>
       <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. But what &lt;em&gt;are&lt;/em&gt; representations?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Processes</title>
-      <link>http://example.org/projects/processes/</link>
+      <link>https://mkunda.github.io/scm24/projects/processes/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/processes/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/processes/</guid>
       <description>&lt;p&gt;Cognitive Science is the science of mental representations and processes. What are processes?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -170,9 +170,9 @@
     
     <item>
       <title>Concepts</title>
-      <link>http://example.org/projects/concepts/</link>
+      <link>https://mkunda.github.io/scm24/projects/concepts/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/concepts/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/concepts/</guid>
       <description>&lt;p&gt;“&lt;em&gt;Concepts are the glue that holds our mental world together&lt;/em&gt;” (Murphy, 2002, p1).&lt;/p&gt;
 &lt;p&gt;This session will explore recent attempts to model the structure of human concepts. This will involve engaging with a historical debate and distinction between more &amp;ldquo;statistical&amp;rdquo; and more &amp;ldquo;rule-based&amp;rdquo; models and their implications but also thinking about how our concepts relate to how we categorize things but also how we think and generate new ideas.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -241,9 +241,9 @@
     
     <item>
       <title>Objects &amp; Events</title>
-      <link>http://example.org/projects/objects/</link>
+      <link>https://mkunda.github.io/scm24/projects/objects/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/objects/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/objects/</guid>
       <description>&lt;p&gt;Light hits our eyes  and somehow we perceive 3 dimensional &amp;lsquo;objects&amp;rsquo;.
 What is an object?
 In representational systems like programming languages, objects are core structure.
@@ -337,9 +337,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Causality</title>
-      <link>http://example.org/projects/causality/</link>
+      <link>https://mkunda.github.io/scm24/projects/causality/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/causality/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/causality/</guid>
       <description>&lt;p&gt;The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.&lt;/p&gt;
 &lt;p&gt;In this session, we will think about how to model the cognition involved in learning, representing and exploiting a causal model of the world.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -420,9 +420,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Rationality</title>
-      <link>http://example.org/projects/rationality/</link>
+      <link>https://mkunda.github.io/scm24/projects/rationality/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/rationality/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/rationality/</guid>
       <description>&lt;p&gt;In popular culture, we often think of &lt;em&gt;rationality&lt;/em&gt; as in tension with &lt;em&gt;intuition&lt;/em&gt;. We see this in caricatures of hyper-rational agents like Spock in Star Trek. The probabilistic revolution in cognitive science has changed this notion. It is not rational to treat every task as logical deduction when the world itself is underdetermined and radically uncertain. This session will explore the notion of being rational in an uncertain world.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -496,9 +496,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Time</title>
-      <link>http://example.org/projects/time/</link>
+      <link>https://mkunda.github.io/scm24/projects/time/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/time/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/time/</guid>
       <description>&lt;p&gt;&lt;em&gt;“For all the points of the compass, there’s only one direction and time is its only measure.”&lt;/em&gt; (Stoppard, 1966)&lt;/p&gt;
 &lt;p&gt;Unlike most computational systems, humans experience and must respond to their environment through time. One of the most basic forms of human and animal learning is to associate things that happen close together. Everyday activities like speech, music, dance demand precise time control, while imagination, mental simulation, and memory (“mental time travel”) seem to require encoding of (and ability to regenerate events) in the right temporal sequence. What then is the role of time in the various cognitive processes and representations we have been discussing throughout this course?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -584,9 +584,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Number</title>
-      <link>http://example.org/projects/number/</link>
+      <link>https://mkunda.github.io/scm24/projects/number/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/number/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/number/</guid>
       <description>&lt;p&gt;Of all the terrifying things humans have created, perhaps maths are a fairly tame, although remarkable, invention. While we clearly created maths, did we create numbers?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -659,9 +659,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Memory</title>
-      <link>http://example.org/projects/memory/</link>
+      <link>https://mkunda.github.io/scm24/projects/memory/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/memory/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/memory/</guid>
       <description>&lt;p&gt;Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to the other themes of the course.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -740,9 +740,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Theory of Mind</title>
-      <link>http://example.org/projects/tom/</link>
+      <link>https://mkunda.github.io/scm24/projects/tom/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/tom/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/tom/</guid>
       <description>&lt;p&gt;&lt;em&gt;“Here is how it works: first you decide to treat the object whose behavior is to be predicted as a rational agent; then you figure out what beliefs that agent ought to have, given its place in the world and its purpose. Then you figure out what desires it ought to have, on the same considerations, and finally you predict that this rational agent will act to further its goals in the light of its beliefs.”&lt;/em&gt; (Dennett, The Intentional Stance, 1996, p. 17).&lt;/p&gt;
 &lt;p&gt;This session will think about how people reason about others and how we might make machines that can do the same.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -838,9 +838,9 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     
     <item>
       <title>Ecology</title>
-      <link>http://example.org/projects/ecology/</link>
+      <link>https://mkunda.github.io/scm24/projects/ecology/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/ecology/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/ecology/</guid>
       <description>&lt;p&gt;Agents operate in an environment but most experiments construct sterile, artificial environments to exert epistemic control. So is looking at the environment worthwhile or can we understand cognition by looking at agents in fixed environments?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w12 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w12/</link>
-      <atom:link href="http://example.org/tag/w12/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w12/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w12/index.xml" rel="self" type="application/rss+xml" />
     <description>w12</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w12</title>
-      <link>http://example.org/tag/w12/</link>
+      <link>https://mkunda.github.io/scm24/tag/w12/</link>
     </image>
     
     <item>
       <title>Biological Motion[CUT/MERGE?]</title>
-      <link>http://example.org/projects/motion/</link>
+      <link>https://mkunda.github.io/scm24/projects/motion/</link>
       <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/motion/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/motion/</guid>
       <description>&lt;p&gt;Rockslides, storms and tidal waves: things in the natural world &lt;strong&gt;move&lt;/strong&gt;! But they move predictably under the laws of physics and the dangerous movements are fairly rare. Agents, on the other hand, move all the time and they are dangerous! How do we perceive agent-based motion?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Events [CUT/MERGE?]</title>
-      <link>http://example.org/projects/events/</link>
+      <link>https://mkunda.github.io/scm24/projects/events/</link>
       <pubDate>Mon, 01 Jul 2024 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/events/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/events/</guid>
       <description>&lt;p&gt;Similar to object, events seem like a great candidate for an ontological type. Formal semanticists have illustrated time and time again that they are important for explaining language. But are events core conceptual knowledge?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;

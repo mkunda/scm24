@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w4 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w4/</link>
-      <atom:link href="http://example.org/tag/w4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w4/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w4/index.xml" rel="self" type="application/rss+xml" />
     <description>w4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w4</title>
-      <link>http://example.org/tag/w4/</link>
+      <link>https://mkunda.github.io/scm24/tag/w4/</link>
     </image>
     
     <item>
       <title>Causality</title>
-      <link>http://example.org/projects/causality/</link>
+      <link>https://mkunda.github.io/scm24/projects/causality/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/causality/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/causality/</guid>
       <description>&lt;p&gt;The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.&lt;/p&gt;
 &lt;p&gt;In this session, we will think about how to model the cognition involved in learning, representing and exploiting a causal model of the world.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
@@ -97,9 +97,9 @@
     
     <item>
       <title>Physical Reasoning</title>
-      <link>http://example.org/projects/physics/</link>
+      <link>https://mkunda.github.io/scm24/projects/physics/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/physics/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/physics/</guid>
       <description>&lt;p&gt;From pouring a cup of coffee to playing frogger through the streets, physical reasoning is ubiquitous in human behavior. Arguably these goals have been stable throughout the evolution of our species, so are we optimal physical reasoners?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;

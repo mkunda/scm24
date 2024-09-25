@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>w9 | Seminar in Cognitive Modelling</title>
-    <link>http://example.org/tag/w9/</link>
-      <atom:link href="http://example.org/tag/w9/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkunda.github.io/scm24/tag/w9/</link>
+      <atom:link href="https://mkunda.github.io/scm24/tag/w9/index.xml" rel="self" type="application/rss+xml" />
     <description>w9</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 09:58:49 +0100</lastBuildDate>
     <image>
-      <url>http://example.org/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mkunda.github.io/scm24/media/icon_huc79e2fc44413a67bc233ec068ab552e1_1379979_512x512_fill_lanczos_center_3.png</url>
       <title>w9</title>
-      <link>http://example.org/tag/w9/</link>
+      <link>https://mkunda.github.io/scm24/tag/w9/</link>
     </image>
     
     <item>
       <title>Space</title>
-      <link>http://example.org/projects/space/</link>
+      <link>https://mkunda.github.io/scm24/projects/space/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/space/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/space/</guid>
       <description>&lt;p&gt;Space. The final frontier. How do we move in space? Vectors, scalars, navigation? Is spacial reasoning a cognitive instinct or a cognitive technology?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
@@ -82,9 +82,9 @@
     
     <item>
       <title>Memory</title>
-      <link>http://example.org/projects/memory/</link>
+      <link>https://mkunda.github.io/scm24/projects/memory/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
-      <guid>http://example.org/projects/memory/</guid>
+      <guid>https://mkunda.github.io/scm24/projects/memory/</guid>
       <description>&lt;p&gt;Memory is the process of encoding, storing, and retrieving information when it is needed. This topic will explore the structure and function of memory in cognitive systems and relate it to the other themes of the course.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
