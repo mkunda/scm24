@@ -5,7 +5,7 @@
     <link>https://mkunda.github.io/scm24/projects/</link>
       <atom:link href="https://mkunda.github.io/scm24/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mkunda.github.io/scm24/media/icon_hu9107f20a553ba23fec53c69f31ee61df_369781_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -1108,6 +1108,45 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     </item>
     
     <item>
+      <title>People</title>
+      <link>https://mkunda.github.io/scm24/projects/people/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://mkunda.github.io/scm24/projects/people/</guid>
+      <description>&lt;p&gt;In cognitive science, we often talk about understanding &amp;ldquo;people&amp;rdquo; and building theories and models about &amp;ldquo;humans.&amp;rdquo;  But who, exactly, are we talking about?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Henrich, J., Heine, S. J., &amp;amp; Norenzayan, A. (2010). The weirdest people in the world?. Behavioral and brain sciences, 33(2-3), 61-83.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;henrich-paper&#34;&gt;Henrich paper&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ll tell a brief story about this paper.&lt;/p&gt;
+&lt;p&gt;A few years ago, I assigned this paper for a course I was teaching on computation and cognition.  In class, we discussed the paper at some length, especially the idea that many psychological observations about &amp;ldquo;humans&amp;rdquo; are really observations about particular subgroups of humans&amp;mdash;still valuable, but not necessarily as universal as we might think.  The very next class period, and with a great deal of excitement, one of the undergrads in our class wanted to tell us something that had happened to her just the day before.  She had been sitting in one of her psychology classes, and the lecture had introduced the idea that humans have a positive self concept.  She said that the idea was presented in her psychology class as if it were universal to all humans.  She was excited that she had just read about this exact finding in the Henrich paper and was able to detect the over-simplification.&lt;/p&gt;
+&lt;p&gt;While the paper makes many good points about &lt;strong&gt;which people&lt;/strong&gt; we study, other researchers have also pointed out that the nature of the experiments themselves, i.e., &lt;strong&gt;what tasks&lt;/strong&gt; we ask people to do, also reflects a very specific social and cultural background, e.g.,:&lt;/p&gt;
+&lt;p&gt;Baumard, N., &amp;amp; Sperber, D. (2010). Weird people, yes, but also weird experiments. Behavioral and Brain Sciences, 33(2-3), 84–85.&lt;/p&gt;
+&lt;p&gt;Going even further, the scientific community is increasingly starting to appreciate that our perspectives strongly influence and define even more basic aspects of &lt;strong&gt;our entire scientific philosophy and research process&lt;/strong&gt;, like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;what research questions we decide to ask in the first place&lt;/li&gt;
+&lt;li&gt;how we conceptualize our ideas about research designs&lt;/li&gt;
+&lt;li&gt;how we apply our notions of measurement onto the world&lt;/li&gt;
+&lt;li&gt;how we believe scientific research produces knowledge&lt;/li&gt;
+&lt;li&gt;and so on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One way to begin addressing these issues is to rethink our research process.  Conventional research might unfold with outside scientists going into communities and &amp;ldquo;extracting&amp;rdquo; the data they want.  Instead, we can think about research as a collaborative activity between scientists and communities, where community members are active participants in all stages of the research, including research framing and design&amp;mdash;what is called &lt;strong&gt;participatory research&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For instance:
+Broesch, T., Crittenden, A. N., Beheim, B. A., Blackwell, A. D., Bunce, J. A., Colleran, H., &amp;hellip; &amp;amp; Mulder, M. B. (2020). Navigating cross-cultural research: methodological and ethical considerations. Proceedings of the Royal Society B, 287(1935), 20201245.&lt;/p&gt;
+&lt;p&gt;As the above paper describes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Too often researchers engage in ‘extractive’ research, whereby a researcher selects a study community and collects the necessary data to exclusively further their own scientific and/or professional goals without benefiting the community&amp;hellip;. Extractive methods may not only lead to methodological challenges but also act to alienate participants from the scientific process and are often unethical.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;[I]t is critical that communities be included in study design, implementation and presentation of research/return of results. There is no one-size-fits-all approach, yet a productive baseline may be for researchers to consider community inclusion as part of their project design from the start. Ideally, the community is not only central to the planned research, but is leading it. &amp;hellip;[I]n many instances, community-based participatory research is shifting towards this type of relationship between researchers and study communities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CRUM</title>
       <link>https://mkunda.github.io/scm24/projects/crum/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
@@ -1117,20 +1156,6 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Thagard, P. (2005). Mind: Introduction to cognitive science. MIT press.  Chapter 1: Representation and Computation.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://mkunda.github.io/scm24/projects/people/</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://mkunda.github.io/scm24/projects/people/</guid>
-      <description>&lt;p&gt;In cognitive science, we often talk about understanding &amp;ldquo;people&amp;rdquo; and building theories and models about &amp;ldquo;humans.&amp;rdquo;  But who, exactly, are we talking about?&lt;/p&gt;
-&lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
-&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Henrich, J., Heine, S. J., &amp;amp; Norenzayan, A. (2010). The weirdest people in the world?. Behavioral and brain sciences, 33(2-3), 61-83.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
