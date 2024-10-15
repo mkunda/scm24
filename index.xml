@@ -959,69 +959,36 @@ This article discusses the Counterfactual Simulation Model (CSM) and its applica
     </item>
     
     <item>
-      <title>Space</title>
+      <title>Space &amp; Number</title>
       <link>https://mkunda.github.io/scm24/projects/space/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
       <guid>https://mkunda.github.io/scm24/projects/space/</guid>
-      <description>&lt;p&gt;Space. The final frontier. How do we move in space? Vectors, scalars, navigation? Is spacial reasoning a cognitive instinct or a cognitive technology?&lt;/p&gt;
+      <description>&lt;h2 id=&#34;space&#34;&gt;Space&lt;/h2&gt;
+&lt;p&gt;Space. The final frontier. How do we move in space? Vectors, scalars, navigation? Is spacial reasoning a cognitive instinct or a cognitive technology?&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
-&lt;p&gt;Everyone should read these and be prepared to discuss:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pederson, E., Danziger, E., Wilkins, D., Levinson, S., Kita, S., &amp;amp; Senft, G. (1998)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Semantic typology and spatial conceptualization.  &lt;em&gt;Language&lt;/em&gt;, 74(3), 557-589.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Levinson, S., Meira, S., &amp;amp; The Language and Cognition Group. (2003)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&amp;lsquo;Natural concepts&amp;rsquo; in the spatial topological domain-Adpositional meanings in crosslinguistic perspective. &lt;em&gt;Language&lt;/em&gt;, 485-516.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- &lt;details&gt;
-  &lt;summary&gt;&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; In summary, the articles and content mentioned above explore various aspects of semantic typology, spatial adpositions, crosslinguistic comparisons, and the relationship between language, cognition, and spatial concepts. They discuss the challenges of categorizing and generalizing spatial adpositions, the role of methodology in comparative semantics research, the use of adpositions and locative nouns in different languages, and the exploration of adpositional groupings and semantic spaces. The articles also propose hypotheses, models, and statistical analyses to better understand the organization and universality of spatial concepts.
-&lt;/details&gt;  --&gt;
-&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
-&lt;p&gt;The presenter should read and incorporate these:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Li, P., &amp;amp; Gleitman, L. (2002)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Turning the tables: Language and spatial reasoning. &lt;em&gt;Cognition&lt;/em&gt;, 83(3), 265-294.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This passage summarizes various research papers and studies that explore the effects of language on spatial organization, reasoning, and cognition. The Whorf-Sapir linguistic relativity hypothesis, which suggests that language influences thought, is discussed. The studies reviewed investigate how different languages use different spatial systems and how cultural factors can impact spatial terminology and cognitive strategies. The presence and suitability of local landmark cues are found to play a role in problem-solving strategies. The passage also mentions research on spatial reasoning in animals and prelinguistic infants, highlighting their ability to adapt spatial reasoning based on the presence of landmark cues. The authors emphasize the relationship between language and thought but note that human thought is robust to variation in linguistic usage patterns.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Levinson, S. C., Kita, S., Haun, D. B., &amp;amp; Rasch, B. H. (2002)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Returning the tables: Language affects spatial reasoning. &lt;em&gt;Cognition&lt;/em&gt;, 84(2), 155-188.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; The study explores the relationship between language and spatial reasoning, arguing against a cross-cultural comparison that suggests language has a causal effect on non-linguistic thinking. The authors conduct experiments to support their hypothesis that language does not have a direct effect on cognition in the spatial domain.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tolman, E. C. (1948). Cognitive maps in rats and men. Psychological review, 55(4), 189.&lt;/li&gt;
+&lt;li&gt;Peer, M., Brunec, I. K., Newcombe, N. S., &amp;amp; Epstein, R. A. (2021). Structuring knowledge with cognitive maps and cognitive graphs. Trends in cognitive sciences, 25(1), 37-54.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;What are the natural concepts for space?&lt;/li&gt;
 &lt;li&gt;Are spatial concepts a cognitive universal or driven by language?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;number&#34;&gt;Number&lt;/h2&gt;
+&lt;p&gt;Of all the terrifying things humans have created, perhaps maths are a fairly tame, although remarkable, invention. While we clearly created maths, did we create numbers?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings-1&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feigenson, L., Dehaene, S., &amp;amp; Spelke, E. (2004). Core systems of number. Trends in cognitive sciences, 8(7), 307-314.&lt;/li&gt;
+&lt;li&gt;Pica, P., Lemer, C., Izard, V., &amp;amp; Dehaene, S. (2004). Exact and approximate arithmetic in an Amazonian indigene group. Science, 306(5695), 499-503.&lt;/li&gt;
+&lt;li&gt;Frank, M. C., Everett, D. L., Fedorenko, E., &amp;amp; Gibson, E. (2008). Number as a cognitive technology: Evidence from Pirahã language and cognition. Cognition, 108(3), 819-824.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;questions-under-discussion-1&#34;&gt;Questions under discussion&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How do we represent numbers?&lt;/li&gt;
+&lt;li&gt;Are numbers universal to animals?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
