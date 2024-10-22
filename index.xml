@@ -322,84 +322,25 @@ Is the same true for our cognitive system? Are objects learned or innate?&lt;/p&
     </item>
     
     <item>
-      <title>Causality</title>
+      <title>Causality &amp; Time</title>
       <link>https://mkunda.github.io/scm24/projects/causality/</link>
       <pubDate>Sat, 01 Jul 2023 09:58:49 +0100</pubDate>
       <guid>https://mkunda.github.io/scm24/projects/causality/</guid>
-      <description>&lt;p&gt;The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;causality&#34;&gt;Causality&lt;/h2&gt;
+&lt;p&gt;The search for a causal understanding of the world is at the heart of human cognition. It shapes learning throughout development and guides intelligent behaviour by allowing cognisers to predict outcomes, selectively gather information, attribute blame and credit, and imagine hypothetical and counterfactual situations. Causal reasoning is also central to the scientific method, underpinning how we, as scientists, design experiments, build and evaluate theories including the ones we use to describe and understand our own minds.&lt;/p&gt;
 &lt;p&gt;In this session, we will think about how to model the cognition involved in learning, representing and exploiting a causal model of the world.&lt;/p&gt;
 &lt;h2 id=&#34;primary-readings&#34;&gt;Primary Readings&lt;/h2&gt;
 &lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Coenen, A., Rehder, B., &amp;amp; Gureckis, T. M. (2015).&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Strategies to intervene on causal systems are adaptively selected. &lt;em&gt;Cognitive Psychology&lt;/em&gt;, 79, 102-133.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Pearl, J. (2019).&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;The seven tools of causal inference, with reflections on machine learning. &lt;em&gt;Communications of the ACM&lt;/em&gt;, 62(3), 54-60.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- &lt;details&gt;
-  &lt;summary&gt;&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores obstacles in machine learning systems, such as adaptability, explainability, and cause-effect understanding, and proposes the use of causal modeling tools to overcome these challenges. It discusses the three-level hierarchy of causal reasoning, which involves association, intervention, and counterfactual thinking. Causal diagrams and structural causal models are presented as crucial tools for representing and estimating causal effects from data.
-&lt;/details&gt;  --&gt;
-&lt;h2 id=&#34;secondary-readings&#34;&gt;Secondary Readings&lt;/h2&gt;
-&lt;p&gt;The presenter should read and incorporate at least one of these.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bramley, N. R., Lagnado, D. A., &amp;amp; Speekenbrink, M. (2015).&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Conservative forgetful scholars: How people learn causal structure through sequences of interventions. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory and Cognition&lt;/em&gt;, 41(3), 708.&lt;/summary&gt;
-  &lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This article explores how people learn causal structures through interventions. The researchers developed a computer task where participants learned the structure of probabilistic causal systems. They developed models to understand participants&amp;rsquo; intervention choices and judgments, considering memory and processing limitations. The study found that successful participants used a model that maximized information gain, forgot evidence from earlier trials, and had conservative beliefs. The study highlights the importance of active learning and the use of simple heuristics in causal structure identification.&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Like Coenen et al, this is an example of human causal learning through interventions, at rung 2 of Pearl&amp;rsquo;s ladder.&lt;/p&gt;
-
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Quillien, T., &amp;amp; Lucas, C. G. (2023).&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Counterfactuals and the logic of causal selection. &lt;em&gt;Psychological Review&lt;/em&gt;.&lt;/summary&gt;
-  &lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Quillien and Lucas explore the relationship between counterfactuals and causal selection. They propose a counterfactual theory, suggesting that people imagine alternative possibilities and judge causal responsibility based on the correlation between factors across these simulations. The theory is supported by empirical data and experiments. The article discusses the use of a computational model, the Counterfactual Effect Size Model (CESM), to explain human judgments in various studies related to causal attributions and judgments. The CESM is found to have a good fit with the data and is able to predict participants&amp;rsquo; intuitions accurately.
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;
-  &lt;i class=&#34;fas fa-scroll  pr-1 fa-fw&#34;&gt;&lt;/i&gt;  Pearl, J. (2000/2009)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;details&gt;
-  &lt;summary&gt;Causality: Chapters 1-2. (On Learn)&lt;/summary&gt;
-  &lt;p&gt;&lt;i class=&#34;fas fa-chalkboard-teacher  pr-1 fa-fw&#34;&gt;&lt;/i&gt; This important book laid formal/mathmatical groundwork for causal modelling in data science but also use of bayesian networks as representations of structural knowledge about the world, particularly causal, combining this with principles of probabilistic inference and statistical dependence. It is technical but readable.&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-robot  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Chapter one of the book introduces the concepts of probabilities, graphs, and causal models. It highlights the importance of probabilities in studying causality, especially in disciplines such as economics, epidemiology, sociology, and psychology. Probability theory helps determine the strength of causal connections and make inferences from noisy observations. The chapter also discusses the use of probabilities in handling exceptions that cannot be processed by deterministic logic. The passage goes on to introduce various concepts within probability theory such as axioms, conditional probabilities, Bayesian inference, joint distribution functions, and graphical models. It explains the properties and terminology associated with probabilities, graphs, and causal models. The chapter also explores the application of probabilities and causal models to hypothesis testing, interventions, and counterfactual analysis.&lt;/p&gt;
-&lt;p&gt;Overall, these chapters provide a comprehensive introduction to probabilities, graphs, and causal models, highlighting their applications and implications in studying causality.&lt;/p&gt;
-
-&lt;/details&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;questions-under-discussion&#34;&gt;Questions under discussion&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;What are the levels of Pearl’s Ladder of Causation?&lt;/li&gt;
-&lt;li&gt;What makes an intervention valuable?&lt;/li&gt;
-&lt;li&gt;What are counterfactuals and what role do they play in reasoning?&lt;/li&gt;
+&lt;li&gt;Gopnik, A., Glymour, C., Sobel, D. M., Schulz, L. E., Kushnir, T., &amp;amp; Danks, D. (2004). A theory of causal learning in children: causal maps and Bayes nets. Psychological review, 111(1), 3.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;time&#34;&gt;Time&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;“For all the points of the compass, there’s only one direction and time is its only measure.”&lt;/em&gt; (Stoppard, 1966)&lt;/p&gt;
+&lt;p&gt;Unlike most computational systems, humans experience and must respond to their environment through time. One of the most basic forms of human and animal learning is to associate things that happen close together. Everyday activities like speech, music, dance demand precise time control, while imagination, mental simulation, and memory (“mental time travel”) seem to require encoding of (and ability to regenerate events) in the right temporal sequence. What then is the role of time in the various cognitive processes and representations we have been discussing throughout this course?&lt;/p&gt;
+&lt;h2 id=&#34;primary-readings-1&#34;&gt;Primary Readings&lt;/h2&gt;
+&lt;p&gt;Everyone should read these and be prepared to discuss.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elman, J. L. (1990). Finding structure in time. Cognitive science, 14(2), 179-211.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
