@@ -1,0 +1,34 @@
+## Format
+
+Scientific writing often involves writing in specified formats.  For example, many scientific conferences give paper templates that authors must follow.  For your essays, you'll be using the paper template of the CogSci conference (which is the main annual conference of the international Cognitive Science Society).
+
+The template is available in both Word and LaTeX.  Your final essays should be submitted in PDF form.
+
+In addition to the CogSci template, we have also specified section headings and section lengths for your essays.
+
+
+Marking will take into account the difficulty of the chosen article(s)/theme(s), but we find that stronger essays tend to be those that focus on a single article. It’s okay to choose an older paper, but in that case you should explain how it relates to more recent work.
+
+You must have your choice of paper(s) approved by 11 November 2024. Post your intended paper(s) on the Piazza note for essay topics. For help choosing papers, see the tips on the website in the first instance. If you are still having trouble, feel free to contact one of the instructors well before the deadline. Essays may not focus on papers that are the subjects of other student presentations. So make sure to look at the essay note to avoid overlapping topics.
+
+
+
+Your essay should be between 2000 and 2500 words, including headers and figure captions but not the bibliography, and should be written at a level that an interested but non-specialist reader would understand – someone who has some background in cognitive science but not necessarily in the specific area you are discussing. Articles in the journal Trends in Cognitive Science, many of which have been included as background readings in this course, are good examples of this level of writing (although the format/content of these articles is different from what you will write). Do not include an abstract.
+Marking
+Basic Criteria
+
+
+
+
+    Demonstrates a detailed understanding of the chosen paper(s).
+
+    Well written
+
+Additional Criteria (beyond chosen papers)
+
+    Includes original discussion.
+    Explicitly compares alternative approaches or competing hypotheses.
+    Reviews additional behavioral evidence.
+    Reviews other uses of the model.
+    Relates the topic/model to broader isues and themes from the course/cognitive science or society.
+    Proposes useful extensions to the model or further ways to test them
